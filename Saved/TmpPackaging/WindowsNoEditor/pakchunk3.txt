@@ -1,3 +1,0 @@
-C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Saved\Cooked\WindowsNoEditor\EscapeTheBackrooms\Content\Mods\PYPeacefulMode\BP_PYPeacefulModeBP
-C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Saved\Cooked\WindowsNoEditor\EscapeTheBackrooms\Content\Mods\PYPeacefulMode\DA_PYPeacefulModeDA
-C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Saved\Cooked\WindowsNoEditor\EscapeTheBackrooms\Content\Mods\PYPeacefulMode\DataTables\DT_PeacefulModeMainDT
