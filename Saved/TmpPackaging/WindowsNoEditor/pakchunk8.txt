@@ -1,0 +1,6 @@
+C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Saved\Cooked\WindowsNoEditor\EscapeTheBackrooms\Content\Mods\Z_ExampleLevel_P\DA_ExampleLEvel
+C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Saved\Cooked\WindowsNoEditor\EscapeTheBackrooms\Content\Mods\Z_ExampleLevel_P\DataTables\DT_ExampleLevel
+C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Saved\Cooked\WindowsNoEditor\EscapeTheBackrooms\Content\Mods\Z_ExampleLevel_P\DataTables\DT_Level_ExampleLevel
+C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Saved\Cooked\WindowsNoEditor\EscapeTheBackrooms\Content\Mods\Z_ExampleLevel_P\ExampleLevelModActor
+C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Saved\Cooked\WindowsNoEditor\EscapeTheBackrooms\Content\Mods\Z_ExampleLevel_P\Levels\ExampleLevel
+C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Saved\Cooked\WindowsNoEditor\EscapeTheBackrooms\Content\Mods\Z_ExampleLevel_P\Textures\example

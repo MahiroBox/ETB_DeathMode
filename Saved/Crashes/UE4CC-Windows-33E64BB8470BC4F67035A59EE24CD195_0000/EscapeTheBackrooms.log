@@ -1,0 +1,1040 @@
+﻿Log file open, 07/01/24 16:04:15
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: EscapeTheBackrooms
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.476093
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz, GPU: AMD Radeon RX 580 2048SP
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2024.07.01-19.04.17:043][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2024.07.01-19.04.17:043][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2024.07.01-19.04.17:043][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Engine.ini]
+[2024.07.01-19.04.17:043][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2024.07.01-19.04.17:043][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2024.07.01-19.04.17:043][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Engine.ini]
+[2024.07.01-19.04.17:044][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Engine.ini]
+[2024.07.01-19.04.17:044][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2024.07.01-19.04.17:044][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2024.07.01-19.04.17:044][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2024.07.01-19.04.17:044][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2024.07.01-19.04.17:044][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2024.07.01-19.04.17:044][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2024.07.01-19.04.17:044][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2024.07.01-19.04.17:044][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2024.07.01-19.04.17:044][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2024.07.01-19.04.17:044][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2024.07.01-19.04.17:044][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2024.07.01-19.04.17:044][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2024.07.01-19.04.17:044][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2024.07.01-19.04.17:044][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2024.07.01-19.04.17:044][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Engine.ini]
+[2024.07.01-19.04.17:044][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2024.07.01-19.04.17:044][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2024.07.01-19.04.17:044][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2024.07.01-19.04.17:044][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2024.07.01-19.04.17:044][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2024.07.01-19.04.17:044][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2024.07.01-19.04.17:044][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2024.07.01-19.04.17:044][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2024.07.01-19.04.17:044][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2024.07.01-19.04.17:044][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2024.07.01-19.04.17:044][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2024.07.01-19.04.17:044][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2024.07.01-19.04.17:044][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2024.07.01-19.04.17:044][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2024.07.01-19.04.17:044][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Engine.ini]
+[2024.07.01-19.04.17:044][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Engine.ini]
+[2024.07.01-19.04.17:063][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Scalability.ini]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Scalability.ini]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Scalability.ini]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Scalability.ini]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Scalability.ini]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Scalability.ini]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.07.01-19.04.17:064][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.07.01-19.04.17:065][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.07.01-19.04.17:065][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2024.07.01-19.04.17:065][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.07.01-19.04.17:065][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2024.07.01-19.04.17:065][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.07.01-19.04.17:065][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.07.01-19.04.17:065][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.07.01-19.04.17:065][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2024.07.01-19.04.17:065][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Scalability.ini]
+[2024.07.01-19.04.17:065][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.07.01-19.04.17:065][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.07.01-19.04.17:065][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Scalability.ini]
+[2024.07.01-19.04.17:065][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.07.01-19.04.17:065][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.07.01-19.04.17:065][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.07.01-19.04.17:065][  0]LogInit: Selected Device Profile: [Windows]
+[2024.07.01-19.04.17:066][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2024.07.01-19.04.17:066][  0]LogHAL: Display: Platform has ~ 16 GB [17045581824 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.07.01-19.04.17:066][  0]LogInit: Going up to parent DeviceProfile []
+[2024.07.01-19.04.17:067][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Scalability.ini]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Scalability.ini]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Scalability.ini]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Scalability.ini]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Scalability.ini]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Scalability.ini]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.07.01-19.04.17:067][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.07.01-19.04.17:068][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.07.01-19.04.17:068][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2024.07.01-19.04.17:068][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2024.07.01-19.04.17:068][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.07.01-19.04.17:068][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.07.01-19.04.17:068][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.07.01-19.04.17:068][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2024.07.01-19.04.17:068][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.07.01-19.04.17:068][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.07.01-19.04.17:068][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.07.01-19.04.17:068][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2024.07.01-19.04.17:068][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.07.01-19.04.17:068][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2024.07.01-19.04.17:068][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.07.01-19.04.17:068][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.07.01-19.04.17:068][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.07.01-19.04.17:068][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2024.07.01-19.04.17:068][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Scalability.ini]
+[2024.07.01-19.04.17:068][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.07.01-19.04.17:068][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.07.01-19.04.17:068][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Scalability.ini]
+[2024.07.01-19.04.17:068][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.07.01-19.04.17:068][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.07.01-19.04.17:068][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.07.01-19.04.17:068][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2024.07.01-19.04.17:075][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2024.07.01-19.04.17:075][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2024.07.01-19.04.17:075][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2024.07.01-19.04.17:075][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Engine.ini]
+[2024.07.01-19.04.17:075][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Editor.ini]
+[2024.07.01-19.04.17:076][  0]LogInit: Computer: DESKTOP-D2RTK69
+[2024.07.01-19.04.17:076][  0]LogInit: User: Playeroth
+[2024.07.01-19.04.17:076][  0]LogInit: CPU Page size=4096, Cores=6
+[2024.07.01-19.04.17:076][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.07.01-19.04.17:076][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2024.07.01-19.04.17:077][  0]LogMemory: Platform Memory Stats for Windows
+[2024.07.01-19.04.17:077][  0]LogMemory: Process Physical Memory: 142.13 MB used, 142.14 MB peak
+[2024.07.01-19.04.17:077][  0]LogMemory: Process Virtual Memory: 114.53 MB used, 114.53 MB peak
+[2024.07.01-19.04.17:077][  0]LogMemory: Physical Memory: 5990.79 MB used,  10265.14 MB free, 16255.93 MB total
+[2024.07.01-19.04.17:077][  0]LogMemory: Virtual Memory: 134183216.00 MB used,  34515.74 MB free, 134217728.00 MB total
+[2024.07.01-19.04.17:084][  0]LogWindows: WindowsPlatformFeatures enabled
+[2024.07.01-19.04.17:347][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2024.07.01-19.04.17:350][  0]LogInit: Overriding language with editor language configuration option (en).
+[2024.07.01-19.04.17:350][  0]LogInit: Overriding language with editor locale configuration option (en).
+[2024.07.01-19.04.17:771][  0]LogInit: Setting process to per monitor DPI aware
+[2024.07.01-19.04.17:802][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.07.01-19.04.17:859][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2024.07.01-19.04.17:860][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2024.07.01-19.04.21:521][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2024.07.01-19.04.21:528][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.07.01-19.04.21:528][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2024.07.01-19.04.21:528][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2024.07.01-19.04.21:528][  0]LogD3D11RHI: D3D11 adapters:
+[2024.07.01-19.04.21:591][  0]LogD3D11RHI:    0. 'AMD Radeon RX 580 2048SP' (Feature Level 11_0)
+[2024.07.01-19.04.21:591][  0]LogD3D11RHI:       8135/0/8127 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2024.07.01-19.04.21:594][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2024.07.01-19.04.21:594][  0]LogD3D11RHI:       0/0/8127 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2024.07.01-19.04.21:594][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2024.07.01-19.04.21:594][  0]LogD3D11RHI:     Description : AMD Radeon RX 580 2048SP
+[2024.07.01-19.04.21:594][  0]LogD3D11RHI:     VendorId    : 1002
+[2024.07.01-19.04.21:594][  0]LogD3D11RHI:     DeviceId    : 6fdf
+[2024.07.01-19.04.21:594][  0]LogD3D11RHI:     SubSysId    : b311002
+[2024.07.01-19.04.21:594][  0]LogD3D11RHI:     Revision    : 00ef
+[2024.07.01-19.04.21:594][  0]LogD3D11RHI:     DedicatedVideoMemory : 8531042304 bytes
+[2024.07.01-19.04.21:594][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2024.07.01-19.04.21:594][  0]LogD3D11RHI:     SharedSystemMemory : 8522790912 bytes
+[2024.07.01-19.04.21:594][  0]LogD3D11RHI:     AdapterLuid : 0 55212
+[2024.07.01-19.04.21:600][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2024.07.01-19.04.21:600][  0]LogD3D11RHI:     GPU DeviceId: 0x6fdf (for the marketing name, search the web for "GPU Device Id")
+[2024.07.01-19.04.21:600][  0]LogWindows: EnumDisplayDevices:
+[2024.07.01-19.04.21:600][  0]LogWindows:    0. 'AMD Radeon RX 580 2048SP' (P:1 D:1)
+[2024.07.01-19.04.21:601][  0]LogWindows:    1. 'AMD Radeon RX 580 2048SP' (P:0 D:0)
+[2024.07.01-19.04.21:602][  0]LogWindows:    2. 'AMD Radeon RX 580 2048SP' (P:0 D:0)
+[2024.07.01-19.04.21:602][  0]LogWindows:    3. 'AMD Radeon RX 580 2048SP' (P:0 D:0)
+[2024.07.01-19.04.21:603][  0]LogWindows:    4. 'AMD Radeon RX 580 2048SP' (P:0 D:0)
+[2024.07.01-19.04.21:603][  0]LogWindows:    5. 'AMD Radeon RX 580 2048SP' (P:0 D:0)
+[2024.07.01-19.04.21:604][  0]LogWindows:    6. 'AMD Radeon RX 580 2048SP' (P:0 D:0)
+[2024.07.01-19.04.21:604][  0]LogWindows: DebugString: FoundDriverCount:7 
+[2024.07.01-19.04.21:604][  0]LogD3D11RHI:     Adapter Name: AMD Radeon RX 580 2048SP
+[2024.07.01-19.04.21:604][  0]LogD3D11RHI:   Driver Version: AMD Software: Adrenalin Edition 24.3.1 (internal:31.0.21912.14, unified:31.0.21912.14)
+[2024.07.01-19.04.21:604][  0]LogD3D11RHI:      Driver Date: 2-20-2024
+[2024.07.01-19.04.21:605][  0]LogRHI: Texture pool is 5157 MB (70% of 7367 MB)
+[2024.07.01-19.04.21:660][  0]LogD3D11RHI: Creating D3DDevice with AMD AGS, using adapter:
+[2024.07.01-19.04.21:660][  0]LogD3D11RHI:     Description : AMD Radeon RX 580 2048SP
+[2024.07.01-19.04.21:660][  0]LogD3D11RHI:     VendorId    : 1002
+[2024.07.01-19.04.21:660][  0]LogD3D11RHI:     DeviceId    : 6fdf
+[2024.07.01-19.04.21:660][  0]LogD3D11RHI:     SubSysId    : b311002
+[2024.07.01-19.04.21:660][  0]LogD3D11RHI:     Revision    : 00ef
+[2024.07.01-19.04.21:660][  0]LogD3D11RHI:     DedicatedVideoMemory : 8531042304 bytes
+[2024.07.01-19.04.21:660][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2024.07.01-19.04.21:660][  0]LogD3D11RHI:     SharedSystemMemory : 8522790912 bytes
+[2024.07.01-19.04.21:660][  0]LogD3D11RHI:     AdapterLuid : 0 55212
+[2024.07.01-19.04.21:724][  0]LogD3D11RHI: Created device via AGS, feature level 11_0, supported extensions 1fffffbf.
+[2024.07.01-19.04.21:724][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2024.07.01-19.04.21:724][  0]LogD3D11RHI: Async texture creation enabled
+[2024.07.01-19.04.21:724][  0]LogD3D11RHI: Array index from any shader is supported
+[2024.07.01-19.04.21:724][  0]LogD3D11RHI: HDR output is supported on display 0 (AMD Device: 0x0, Display: 0x0).
+[2024.07.01-19.04.21:765][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2024.07.01-19.04.22:142][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2024.07.01-19.04.22:167][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2024.07.01-19.04.22:167][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2024.07.01-19.04.22:167][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2024.07.01-19.04.22:167][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2024.07.01-19.04.22:167][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2024.07.01-19.04.22:167][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2024.07.01-19.04.22:167][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2024.07.01-19.04.22:167][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2024.07.01-19.04.22:167][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2024.07.01-19.04.22:167][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2024.07.01-19.04.22:194][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2024.07.01-19.04.22:194][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2024.07.01-19.04.22:224][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2024.07.01-19.04.22:231][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2024.07.01-19.04.22:238][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2024.07.01-19.04.22:245][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2024.07.01-19.04.22:265][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2024.07.01-19.04.22:272][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2024.07.01-19.04.22:278][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2024.07.01-19.04.22:315][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2024.07.01-19.04.22:315][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2024.07.01-19.04.22:341][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2024.07.01-19.04.22:349][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2024.07.01-19.04.22:354][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2024.07.01-19.04.22:360][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2024.07.01-19.04.22:371][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2024.07.01-19.04.22:371][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2024.07.01-19.04.22:383][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2024.07.01-19.04.22:390][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2024.07.01-19.04.22:396][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2024.07.01-19.04.22:403][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2024.07.01-19.04.22:403][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2024.07.01-19.04.22:467][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.07.01-19.04.22:575][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2024.07.01-19.04.22:714][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2024.07.01-19.04.22:716][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Intermediate/Shaders/WorkingDirectory/10800/).
+[2024.07.01-19.04.22:716][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Playeroth/AppData/Local/Temp/UnrealShaderWorkingDir/C025F81641B35040D63BD18EE922546F/'.
+[2024.07.01-19.04.22:717][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2024.07.01-19.04.22:717][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2024.07.01-19.04.22:717][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2024.07.01-19.04.27:275][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2024.07.01-19.04.27:395][  0]LogDerivedDataCache: Loaded boot cache 0.12s 94MB C:/Users/Playeroth/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2024.07.01-19.04.27:396][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Playeroth/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2024.07.01-19.04.27:396][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.07.01-19.04.27:396][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2024.07.01-19.04.27:396][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.07.01-19.04.27:396][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2024.07.01-19.04.27:426][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2024.07.01-19.04.27:426][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.07.01-19.04.27:426][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2024.07.01-19.04.27:500][  0]LogDerivedDataCache: Speed tests for C:/Users/Playeroth/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.07 seconds
+[2024.07.01-19.04.27:500][  0]LogDerivedDataCache: Display: Performance to C:/Users/Playeroth/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.22ms. RandomReadSpeed=14.59MBs, RandomWriteSpeed=137.93MBs. Assigned SpeedClass 'Local'
+[2024.07.01-19.04.27:503][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Playeroth/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.07.01-19.04.27:503][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2024.07.01-19.04.27:503][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2024.07.01-19.04.27:562][  0]LogSlate: Using FreeType 2.10.0
+[2024.07.01-19.04.27:589][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.07.01-19.04.27:648][  0]LogAssetRegistry: FAssetRegistry took 0.0065 seconds to start up
+[2024.07.01-19.04.27:964][  0]LogCollisionProfile: Warning: ProfileRedirect (EntitiType : EntityType) - New Name ('EntityType') isn't found 
+[2024.07.01-19.04.28:048][  0]LogInit: Selected Device Profile: [Windows]
+[2024.07.01-19.04.28:048][  0]LogInit: Active device profile: [000002478802E800][0000024781F3B700 49] Windows
+[2024.07.01-19.04.28:048][  0]LogInit: Profiles: [000002478802E800][0000024781F3B700 49] Windows, [0000024787FEDA00][000002478662D880 49] WindowsNoEditor, [000002478802DA00][0000024788939A00 49] WindowsServer, [0000024787FEE900][000002478893DB80 49] WindowsClient, [000002478802EB00][0000024788940180 49] IOS, [0000024787FED400][0000024788944300 49] iPadAir, [000002478802F300][0000024788948480 49] iPadAir2, [0000024787FAB100][0000024788950740 49] IPadPro, [0000024787FAB200][000002478894C780 49] iPadAir3, [000002478802E900][0000024788954900 49] iPadAir4, [0000024787FA9F00][0000024788958A80 49] iPadMini2, [000002478802E200][0000024786628BC0 49] iPadMini3, [0000024787FA9A00][000002478895CD00 49] iPadMini4, [000002478802EC00][0000024788960E40 49] iPadMini5, [0000024787FDE700][000002478896D0C0 49] iPhone6, [0000024787FDE800][0000024788965100 49] iPodTouch6, [0000024787FA8F00][00000247889753C0 49] iPhone7, [0000024787FA8E00][0000024788971400 49] iPodTouch7, [0000024787FDDE00][0000024788979580 49] iPhone5S, [0000024787FAB800][000002478897D700 49] iPhone6Plus, [0000024787FDDA00][0000024788981880 49] iPhone6S, [0000024787FAA300][0000024788985A00 49] iPhone6SPlus, [0000024787FDE900][0000024788989B80 49] iPhone7Plus, [0000024787FA8B00][000002478898C180 49] iPhoneSE, [0000024787FDD800][0000024788990300 49] iPhone8, [0000024787FA9800][0000024788994480 49] iPhone8Plus, [0000024787FDE500][0000024788998600 49] iPhoneX, [0000024787FAA100][000002478899C780 49] iPhoneXS, [0000024787FDC500][00000247889A0900 49] iPhoneXSMax, [0000024787FABA00][00000247889A4A80 49] iPhoneXR, [0000024787FDF400][00000247889A8C00 49] iPhone11, [0000024787FA8400][0000024788968D40 49] iPhone11Pro, [0000024787FDCF00][00000247889ACE80 49] iPhone11ProMax, [0000024787FAAA00][00000247889B0FC0 49] iPhoneSE2, [0000024787FDF800][00000247889B5100 49] iPhone12Mini, [0000024787FA9900][00000247889BD280 49] iPhone12, [0000024787FDED00][00000247889C1400 49] iPhone12Pro, [0000024787FAAB00][00000247889C5580 49] iPhone12ProMax, [0000024787FDC200][00000247889C9700 49] iPadPro105, [0000024787FA9100][00000247889CD880 49] iPadPro129, [0000024787FDE100][00000247889D1A00 49] iPadPro97, [0000024787FAAC00][00000247889D5B80 49] iPadPro2_129, [0000024787FDF000][00000247889D8180 49] iPad5, [0000024787FA9700][00000247889DC300 49] iPad6, [0000024787FDDF00][00000247889E0480 49] iPad7, [0000024787FA8800][00000247889E4600 49] iPad8, [0000024787FDDC00][00000247889E8780 49] iPadPro11, [0000024788080A00][00000247889EC900 49] iPadPro2_11, [0000024787FEF400][00000247889F0A80 49] iPadPro3_129, [0000024788080200][00000247889F4C00 49] iPadPro4_129, [0000024787FEE400][00000247889F8D80 49] AppleTV, [0000024788081400][00000247889FCF00 49] AppleTV4K, [0000024787FEFB00][00000247889B9040 49] TVOS, [0000024788080B00][0000024788A01180 49] Mac, [0000024787FEE000][0000024788A052C0 49] MacClient, [0000024788080E00][0000024788A0D440 49] MacNoEditor, [0000024787FEFF00][0000024788A115C0 49] MacServer, [0000024788080800][0000024788A15740 49] Linux, [0000024787FEF600][0000024788A198C0 49] LinuxAArch64, [0000024788081000][0000024788A1DA40 49] LinuxNoEditor, [0000024787FEC400][0000024788A21BC0 49] LinuxAArch64NoEditor, [0000024787FDC600][0000024788A241C0 49] LinuxClient, [0000024787FA9C00][0000024788A28340 49] LinuxAArch64Client, [0000024787FDEE00][0000024788A2C4C0 49] LinuxServer, [0000024787FABF00][0000024788A30640 49] LinuxAArch64Server, [0000024787FDC800][0000024788A347C0 49] Android, [0000024787FAAF00][0000024788A38940 49] Android_Low, [0000024787FDE300][0000024788A3CAC0 49] Android_Mid, [0000024787FABC00][0000024788A50C40 49] Android_High, [0000024787FDDD00][0000024788A54DC0 49] Android_Default, [0000024787FAA600][0000024788A58F40 49] Android_Adreno4xx, [0000024787FDD500][0000024788A5D0C0 49] Android_Adreno5xx_Low, [0000024787FA8300][0000024788A09200 49] Android_Adreno5xx, [0000024787FDF600][0000024788A61340 49] Android_Adreno6xx, [0000024787FA9600][0000024788A65480 49] Android_Adreno6xx_Vulkan, [0000024787FDF700][0000024788A695C0 49] Android_Mali_T6xx, [0000024787FA8C00][0000024788A71740 49] Android_Mali_T7xx, [0000024787FDCE00][0000024788A758C0 49] Android_Mali_T8xx, [0000024787FAAD00][0000024788A79A40 49] Android_Mali_G71, [0000024787FDEC00][0000024788A7DBC0 49] Android_Mali_G72, [0000024787FA9200][0000024788A801C0 49] Android_Mali_G72_Vulkan, [0000024787FDD000][0000024788A84340 49] Android_Mali_G76, [0000024787FAB400][0000024788A884C0 49] Android_Mali_G76_Vulkan, [0000024787FDDB00][0000024788A8C640 49] Android_Mali_G77, [0000024787FAB300][0000024788A907C0 49] Android_Mali_G77_Vulkan, [0000024787FDFD00][0000024788A94940 49] Android_Mali_G78, [0000024787FA8700][0000024788A98AC0 49] Android_Mali_G78_Vulkan, [0000024787FDF100][0000024788A9CC40 49] Android_Mali_G710, [0000024787FAB900][0000024788AA0DC0 49] Android_Mali_G710_Vulkan, [0000024788080400][0000024788AA4F40 49] Android_Vulkan_SM5, [0000024787FAA400][0000024788AA90C0 49] Android_PowerVR_G6xxx, [000002478802E000][0000024788AAD240 49] Android_PowerVR_GT7xxx, [0000024787FEEA00][0000024788A6D380 49] Android_PowerVR_GE8xxx, [000002478802E500][0000024788AB14C0 49] Android_PowerVR_GM9xxx, [0000024787FEF200][0000024788AB5600 49] Android_PowerVR_GM9xxx_Vulkan, [000002478802D800][0000024788AB9740 49] Android_TegraK1, [0000024787FEDC00][0000024788AC18C0 49] Android_Unknown_Vulkan, [000002478802DD00][0000024788AC5A40 49] Lumin, [0000024787FEE700][0000024788AC9BC0 49] Lumin_Desktop, [000002478802FC00][0000024788ACC1C0 49] HoloLens, 
+[2024.07.01-19.04.28:356][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.07.01-19.04.28:356][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2024.07.01-19.04.28:356][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.07.01-19.04.28:356][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2024.07.01-19.04.28:357][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2024.07.01-19.04.28:433][  0]LogNetVersion: EscapeTheBackrooms 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3701509013)
+[2024.07.01-19.04.29:778][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2024.07.01-19.04.29:906][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2024.07.01-19.04.29:912][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2024.07.01-19.04.29:912][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2024.07.01-19.04.29:912][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.07.01-19.04.30:750][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 05B43DC44A05DE53255701878D9B6C23 | Instance: 63A720E342AB3AFC13979FB32CF982A5 (DESKTOP-D2RTK69-10800).
+[2024.07.01-19.04.31:078][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.07.01-19.04.31:086][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.07.01-19.04.31:106][  0]LogPython: Using Python 3.7.7
+[2024.07.01-19.04.32:189][  0]SourceControl: Source control is disabled
+[2024.07.01-19.04.32:189][  0]SourceControl: Source control is disabled
+[2024.07.01-19.04.32:199][  0]SourceControl: Source control is disabled
+[2024.07.01-19.04.32:205][  0]SourceControl: Source control is disabled
+[2024.07.01-19.04.32:226][  0]SourceControl: Source control is disabled
+[2024.07.01-19.04.32:234][  0]LogUProjectInfo: Found projects:
+[2024.07.01-19.04.32:828][  0]LogOpenImageDenoise: OIDN starting up
+[2024.07.01-19.04.32:853][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.07.01-19.04.32:892][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.07.01-19.04.32:892][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.07.01-19.04.33:277][  0]LogCollectionManager: Loaded 0 collections in 0.002081 seconds
+[2024.07.01-19.04.33:336][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Collections/' took 0.00s
+[2024.07.01-19.04.33:336][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Content/Developers/Playeroth/Collections/' took 0.00s
+[2024.07.01-19.04.33:336][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Content/Collections/' took 0.00s
+[2024.07.01-19.04.33:336][  0]LogOcInput: OculusInput pre-init called
+[2024.07.01-19.04.33:707][  0]LogEngine: Initializing Engine...
+[2024.07.01-19.04.33:770][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2024.07.01-19.04.33:771][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.07.01-19.04.33:771][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2024.07.01-19.04.33:775][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2024.07.01-19.04.34:110][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.07.01-19.04.34:145][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.07.01-19.04.34:150][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2024.07.01-19.04.34:155][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2024.07.01-19.04.34:161][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2024.07.01-19.04.34:162][  0]LogAudio: Display: Audio Device Manager Initialized
+[2024.07.01-19.04.34:162][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2024.07.01-19.04.34:163][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.01-19.04.34:163][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.01-19.04.34:163][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2024.07.01-19.04.34:163][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2024.07.01-19.04.34:163][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2024.07.01-19.04.34:163][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.01-19.04.34:163][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.07.01-19.04.34:163][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.01-19.04.34:164][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.01-19.04.34:164][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.01-19.04.34:164][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.01-19.04.34:164][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2024.07.01-19.04.34:187][  0]LogAudioMixer: Display: 0: FrontLeft
+[2024.07.01-19.04.34:187][  0]LogAudioMixer: Display: 1: FrontRight
+[2024.07.01-19.04.34:210][  0]LogAudioMixer: Display: Using Audio Device Alto-falantes (Realtek High Definition Audio)
+[2024.07.01-19.04.34:212][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.01-19.04.34:239][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.01-19.04.34:239][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.01-19.04.34:241][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.07.01-19.04.34:241][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.07.01-19.04.34:241][  0]LogAudioMixer: Display: Output buffers initialized: Frames=256, Channels=2, Samples=512
+[2024.07.01-19.04.34:242][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.07.01-19.04.34:242][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.07.01-19.04.34:242][  0]LogInit: FAudioDevice initialized.
+[2024.07.01-19.04.34:243][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.07.01-19.04.34:243][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.07.01-19.04.34:292][  0]LogDerivedDataCache: Saved boot cache 0.05s 94MB C:/Users/Playeroth/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2024.07.01-19.04.34:293][  0]LogInit: Texture streaming: Enabled
+[2024.07.01-19.04.34:310][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2024.07.01-19.04.34:315][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2024.07.01-19.04.34:315][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2024.07.01-19.04.34:318][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2024.07.01-19.04.34:498][  0]LogInit: Transaction tracking system initialized
+[2024.07.01-19.04.34:541][  0]BlueprintLog: New page: Editor Load
+[2024.07.01-19.04.34:678][  0]LocalizationService: Localization service is disabled
+[2024.07.01-19.04.34:737][  0]TimingProfiler: Initialize
+[2024.07.01-19.04.34:739][  0]TimingProfiler: OnSessionChanged
+[2024.07.01-19.04.34:739][  0]LoadingProfiler: Initialize
+[2024.07.01-19.04.34:740][  0]LoadingProfiler: OnSessionChanged
+[2024.07.01-19.04.34:740][  0]NetworkingProfiler: Initialize
+[2024.07.01-19.04.34:740][  0]NetworkingProfiler: OnSessionChanged
+[2024.07.01-19.04.34:740][  0]MemoryProfiler: Initialize
+[2024.07.01-19.04.34:740][  0]MemoryProfiler: OnSessionChanged
+[2024.07.01-19.04.35:203][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2024.07.01-19.04.35:204][  0]LogCook: Display: Mobile HDR setting 1
+[2024.07.01-19.04.35:221][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Content/' took 0.01s
+[2024.07.01-19.04.35:780][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2024.07.01-19.04.35:787][  0]SourceControl: Source control is disabled
+[2024.07.01-19.04.35:788][  0]LogUnrealEdMisc: Loading editor; pre map load, took 22.712
+[2024.07.01-19.04.35:788][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.07.01-19.04.35:796][  0]LightingResults: New page: Lighting Build
+[2024.07.01-19.04.35:801][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.07.01-19.04.35:802][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.01-19.04.35:803][  0]MapCheck: New page: Map Check
+[2024.07.01-19.04.35:803][  0]LightingResults: New page: Lighting Build
+[2024.07.01-19.04.35:811][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.01-19.04.35:816][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.07.01-19.04.35:948][  0]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2024.07.01-19.04.35:963][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2024.07.01-19.04.35:964][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2024.07.01-19.04.35:984][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.07.01-19.04.35:993][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.07.01-19.04.35:994][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.07.01-19.04.35:995][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.354ms to complete.
+[2024.07.01-19.04.35:995][  0]LogFileHelpers: Loading map 'Template_Default' took 0.207
+[2024.07.01-19.04.36:019][  0]LogUnrealEdMisc: Total Editor Startup Time, took 22.943
+[2024.07.01-19.04.36:166][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.01-19.04.36:173][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.01-19.04.36:180][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.01-19.04.36:187][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.01-19.04.36:295][  0]LogSlate: Took 0.008259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.07.01-19.04.36:307][  0]LogSlate: Took 0.009636 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.07.01-19.04.36:316][  0]LogSlate: Took 0.007372 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.07.01-19.04.36:507][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2024.07.01-19.04.36:585][  0]LogSlate: Took 0.005657 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.07.01-19.04.36:659][  0]LogLoad: (Engine Initialization) Total time: 23.58 seconds
+[2024.07.01-19.04.36:659][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.07.01-19.04.36:755][  0]LogAssetRegistry: Asset discovery search completed in 9.1080 seconds
+[2024.07.01-19.04.36:787][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2024.07.01-19.04.36:793][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.07.01-19.04.37:058][  2]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0138 seconds. Added 3823 classes and 930 folders.
+[2024.07.01-19.04.38:002][  4]LogLinker: Warning: [AssetLog] C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Content\Player\Player_Mesh.uasset: Failed to load '/Game/Mods/TheNeighborCharacter/Characters/HelloNeighborNeighbor/Materials/hair_m': Can't find file.
+[2024.07.01-19.04.38:002][  4]LogLinker: Warning: [AssetLog] C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Content\Player\Player_Mesh.uasset: Failed to load '/Game/Mods/TheNeighborCharacter/Characters/HelloNeighborNeighbor/Materials/hair_m': Can't find file.
+[2024.07.01-19.04.38:003][  4]LogLinker: Warning: [AssetLog] C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Content\Player\Player_Mesh.uasset: Failed to load '/Game/Mods/TheNeighborCharacter/Characters/HelloNeighborNeighbor/Materials/Material_001': Can't find file.
+[2024.07.01-19.04.38:003][  4]LogLinker: Warning: [AssetLog] C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Content\Player\Player_Mesh.uasset: Failed to load '/Game/Mods/TheNeighborCharacter/Characters/HelloNeighborNeighbor/Materials/Material_001': Can't find file.
+[2024.07.01-19.04.38:003][  4]LogLinker: Warning: [AssetLog] C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Content\Player\Player_Mesh.uasset: Failed to load '/Game/Mods/TheNeighborCharacter/Characters/HelloNeighborNeighbor/Materials/pants_short_m': Can't find file.
+[2024.07.01-19.04.38:003][  4]LogLinker: Warning: [AssetLog] C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Content\Player\Player_Mesh.uasset: Failed to load '/Game/Mods/TheNeighborCharacter/Characters/HelloNeighborNeighbor/Materials/pants_short_m': Can't find file.
+[2024.07.01-19.04.38:004][  4]LogLinker: Warning: [AssetLog] C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Content\Player\Player_Mesh.uasset: Failed to load '/Game/Mods/TheNeighborCharacter/Characters/HelloNeighborNeighbor/Materials/skin_m': Can't find file.
+[2024.07.01-19.04.38:004][  4]LogLinker: Warning: [AssetLog] C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Content\Player\Player_Mesh.uasset: Failed to load '/Game/Mods/TheNeighborCharacter/Characters/HelloNeighborNeighbor/Materials/skin_m': Can't find file.
+[2024.07.01-19.04.38:004][  4]LogLinker: Warning: [AssetLog] C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Content\Player\Player_Mesh.uasset: Failed to load '/Game/Mods/TheNeighborCharacter/Characters/HelloNeighborNeighbor/Materials/skin_m_001': Can't find file.
+[2024.07.01-19.04.38:005][  4]LogLinker: Warning: [AssetLog] C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Content\Player\Player_Mesh.uasset: Failed to load '/Game/Mods/TheNeighborCharacter/Characters/HelloNeighborNeighbor/Materials/skin_m_001': Can't find file.
+[2024.07.01-19.04.38:005][  4]LogLinker: Warning: [AssetLog] C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Content\Player\Player_Mesh.uasset: Failed to load '/Game/Mods/TheNeighborCharacter/Characters/HelloNeighborNeighbor/Materials/sweather_shoes_gloves_m': Can't find file.
+[2024.07.01-19.04.38:005][  4]LogLinker: Warning: [AssetLog] C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Content\Player\Player_Mesh.uasset: Failed to load '/Game/Mods/TheNeighborCharacter/Characters/HelloNeighborNeighbor/Materials/sweather_shoes_gloves_m': Can't find file.
+[2024.07.01-19.04.38:005][  4]LogLinker: Warning: [AssetLog] C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Content\Player\Player_Mesh.uasset: Failed to load '/Game/Mods/TheNeighborCharacter/Characters/HelloNeighborNeighbor/Materials/hair_m': Can't find file.
+[2024.07.01-19.04.38:005][  4]LogLinker: Warning: [AssetLog] C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Content\Player\Player_Mesh.uasset: Failed to load '/Game/Mods/TheNeighborCharacter/Characters/HelloNeighborNeighbor/Materials/Material_001': Can't find file.
+[2024.07.01-19.04.38:006][  4]LogLinker: Warning: [AssetLog] C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Content\Player\Player_Mesh.uasset: Failed to load '/Game/Mods/TheNeighborCharacter/Characters/HelloNeighborNeighbor/Materials/pants_short_m': Can't find file.
+[2024.07.01-19.04.38:006][  4]LogLinker: Warning: [AssetLog] C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Content\Player\Player_Mesh.uasset: Failed to load '/Game/Mods/TheNeighborCharacter/Characters/HelloNeighborNeighbor/Materials/skin_m': Can't find file.
+[2024.07.01-19.04.38:006][  4]LogLinker: Warning: [AssetLog] C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Content\Player\Player_Mesh.uasset: Failed to load '/Game/Mods/TheNeighborCharacter/Characters/HelloNeighborNeighbor/Materials/skin_m_001': Can't find file.
+[2024.07.01-19.04.38:006][  4]LogLinker: Warning: [AssetLog] C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Content\Player\Player_Mesh.uasset: Failed to load '/Game/Mods/TheNeighborCharacter/Characters/HelloNeighborNeighbor/Materials/sweather_shoes_gloves_m': Can't find file.
+[2024.07.01-19.04.38:480][  4]LogLinker: Warning: [AssetLog] C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Content\Player\Player_Mesh.uasset: Failed to load '/Game/Mods/TheNeighborCharacter/Characters/HelloNeighborNeighbor/Materials/Material_001': Can't find file.
+[2024.07.01-19.04.38:480][  4]LoadErrors: Failed to load /Game/Mods/TheNeighborCharacter/Characters/HelloNeighborNeighbor/Materials/Material_001.Material_001 Referenced by Player_Mesh
+[2024.07.01-19.04.38:480][  4]LogLinker: Warning: [AssetLog] C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Content\Player\Player_Mesh.uasset: Failed to load '/Game/Mods/TheNeighborCharacter/Characters/HelloNeighborNeighbor/Materials/skin_m_001': Can't find file.
+[2024.07.01-19.04.38:480][  4]LoadErrors: Failed to load /Game/Mods/TheNeighborCharacter/Characters/HelloNeighborNeighbor/Materials/skin_m_001.skin_m_001 Referenced by Player_Mesh
+[2024.07.01-19.04.38:481][  4]LogLinker: Warning: [AssetLog] C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Content\Player\Player_Mesh.uasset: Failed to load '/Game/Mods/TheNeighborCharacter/Characters/HelloNeighborNeighbor/Materials/pants_short_m': Can't find file.
+[2024.07.01-19.04.38:481][  4]LoadErrors: Failed to load /Game/Mods/TheNeighborCharacter/Characters/HelloNeighborNeighbor/Materials/pants_short_m.pants_short_m Referenced by Player_Mesh
+[2024.07.01-19.04.38:481][  4]LogLinker: Warning: [AssetLog] C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Content\Player\Player_Mesh.uasset: Failed to load '/Game/Mods/TheNeighborCharacter/Characters/HelloNeighborNeighbor/Materials/sweather_shoes_gloves_m': Can't find file.
+[2024.07.01-19.04.38:481][  4]LoadErrors: Failed to load /Game/Mods/TheNeighborCharacter/Characters/HelloNeighborNeighbor/Materials/sweather_shoes_gloves_m.sweather_shoes_gloves_m Referenced by Player_Mesh
+[2024.07.01-19.04.38:481][  4]LogLinker: Warning: [AssetLog] C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Content\Player\Player_Mesh.uasset: Failed to load '/Game/Mods/TheNeighborCharacter/Characters/HelloNeighborNeighbor/Materials/skin_m': Can't find file.
+[2024.07.01-19.04.38:481][  4]LoadErrors: Failed to load /Game/Mods/TheNeighborCharacter/Characters/HelloNeighborNeighbor/Materials/skin_m.skin_m Referenced by Player_Mesh
+[2024.07.01-19.04.38:481][  4]LogLinker: Warning: [AssetLog] C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Content\Player\Player_Mesh.uasset: Failed to load '/Game/Mods/TheNeighborCharacter/Characters/HelloNeighborNeighbor/Materials/hair_m': Can't find file.
+[2024.07.01-19.04.38:482][  4]LoadErrors: Failed to load /Game/Mods/TheNeighborCharacter/Characters/HelloNeighborNeighbor/Materials/hair_m.hair_m Referenced by Player_Mesh
+[2024.07.01-19.04.38:561][  4]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.07.01-19.04.38:570][  4]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Mods/PYModMenu/WBP_MonsterTab.WBP_MonsterTab
+[2024.07.01-19.04.39:510][  4]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2024.07.01-19.04.40:542][  4]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Mods/PYModMenu/BP_PYModMenuBP.BP_PYModMenuBP
+[2024.07.01-19.04.41:115][  4]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Mods/PYModMenu/Widgets/MonsterTab/MonsterToList.MonsterToList
+[2024.07.01-19.04.41:460][  4]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Mods/PYModMenu/CheckMod.CheckMod
+[2024.07.01-19.04.42:112][  4]LogSlate: Took 0.007040 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.07.01-19.04.42:431][  4]LogSlate: Took 0.005631 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.07.01-19.04.42:498][  5]LogSlate: Took 0.005524 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.07.01-19.16.54:564][441]LogSlate: Window 'WBP_MonsterTab' being destroyed
+[2024.07.01-20.13.28:271][538]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.07.01-20.13.28:284][538]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.07.01-20.13.42:818][277]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> SelectionButton
+[2024.07.01-20.13.42:831][277]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.07.01-20.13.44:770][430]LogUObjectHash: Compacting FUObjectHashTables data took   7.92ms
+[2024.07.01-20.13.45:672][430]LogSlate: Window 'Save Content' being destroyed
+[2024.07.01-20.13.45:728][430]LogSavePackage: Moving '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/SelectionButton8A0006C54FE2353F24BED2849AAACA49.tmp' to '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Content/Mods/PYModMenu/Widgets/SelectionButton.uasset'
+[2024.07.01-20.13.45:750][430]AssetCheck: New page: Asset Save: SelectionButton
+[2024.07.01-20.13.45:751][430]LogContentValidation: Display: Validating WidgetBlueprint /Game/Mods/PYModMenu/Widgets/SelectionButton.SelectionButton
+[2024.07.01-20.13.46:778][550]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Mods/PYModMenu/Widgets/SelectionButton.SelectionButton
+[2024.07.01-20.13.50:449][920]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.07.01-20.13.50:449][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.01-20.13.50:464][920]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.07.01-20.13.50:464][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.01-20.13.52:917][186]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2024.07.01-20.13.54:295][186]LogSlate: Window 'Delete Assets' being destroyed
+[2024.07.01-20.13.54:886][252]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Mods/PYModMenu/Widgets/PlayerNameButton.PlayerNameButton
+[2024.07.01-20.14.24:377][296]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Mods/PYModMenu/Widgets/SelectionButton.SelectionButton
+[2024.07.01-20.14.25:894][423]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.07.01-20.14.31:324][992]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.07.01-20.14.31:336][992]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.07.01-20.14.32:307][109]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> Testw
+[2024.07.01-20.14.32:311][109]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.07.01-20.14.32:994][188]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Mods/PYModMenu/Widgets/Testw.Testw
+[2024.07.01-20.14.34:644][325]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.07.01-20.14.34:663][325]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.07.01-20.14.39:783][935]LogBlueprint: Warning: Reparenting blueprint WidgetBlueprint /Game/Mods/PYModMenu/Widgets/Testw.Testw from UserWidget to SelectionButton_C...
+[2024.07.01-20.14.39:790][935]BlueprintLog: New page: Compile Testw
+[2024.07.01-20.14.39:835][935]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2024.07.01-20.14.39:842][935]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.07.01-20.14.39:847][935]LogSavePackage: Moving '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/TestwB6F78D3546C1ECC93D4EF2ABEAFA609B.tmp' to '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Content/Mods/PYModMenu/Widgets/Testw.uasset'
+[2024.07.01-20.14.39:867][935]AssetCheck: New page: Asset Save: Testw
+[2024.07.01-20.14.39:867][935]LogContentValidation: Display: Validating WidgetBlueprint /Game/Mods/PYModMenu/Widgets/Testw.Testw
+[2024.07.01-20.14.40:568][ 17]BlueprintLog: New page: Compile Testw
+[2024.07.01-20.14.40:637][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2024.07.01-20.15.00:320][343]BlueprintLog: New page: Compile SelectionButton
+[2024.07.01-20.15.00:405][343]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2024.07.01-20.15.00:444][343]LogSavePackage: Moving '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/SelectionButtonE1F5D9B540BCC04298106F8D64CDF5BA.tmp' to '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Content/Mods/PYModMenu/Widgets/SelectionButton.uasset'
+[2024.07.01-20.15.00:462][343]AssetCheck: New page: Asset Save: SelectionButton
+[2024.07.01-20.15.00:462][343]LogContentValidation: Display: Validating WidgetBlueprint /Game/Mods/PYModMenu/Widgets/SelectionButton.SelectionButton
+[2024.07.01-20.15.00:692][366]LogSavePackage: Moving '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/SelectionButtonCA7F5D5E451E06DE75AD04BF1DF63D12.tmp' to '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Content/Mods/PYModMenu/Widgets/SelectionButton.uasset'
+[2024.07.01-20.15.00:704][366]AssetCheck: New page: Asset Save: SelectionButton
+[2024.07.01-20.15.00:704][366]LogContentValidation: Display: Validating WidgetBlueprint /Game/Mods/PYModMenu/Widgets/SelectionButton.SelectionButton
+[2024.07.01-20.15.06:346][991]BlueprintLog: New page: Compile SelectionButton
+[2024.07.01-20.15.06:416][991]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2024.07.01-20.15.06:454][991]LogSavePackage: Moving '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/SelectionButtonD88DADFE4C9189F6F3A1E4B484F65938.tmp' to '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Content/Mods/PYModMenu/Widgets/SelectionButton.uasset'
+[2024.07.01-20.15.06:469][991]AssetCheck: New page: Asset Save: SelectionButton
+[2024.07.01-20.15.06:469][991]LogContentValidation: Display: Validating WidgetBlueprint /Game/Mods/PYModMenu/Widgets/SelectionButton.SelectionButton
+[2024.07.01-20.15.06:642][  7]LogSavePackage: Moving '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/SelectionButton2A6E4A8D4C55002B95969DAC06ED88D1.tmp' to '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Content/Mods/PYModMenu/Widgets/SelectionButton.uasset'
+[2024.07.01-20.15.06:657][  7]AssetCheck: New page: Asset Save: SelectionButton
+[2024.07.01-20.15.06:657][  7]LogContentValidation: Display: Validating WidgetBlueprint /Game/Mods/PYModMenu/Widgets/SelectionButton.SelectionButton
+[2024.07.01-20.15.15:834][ 48]BlueprintLog: New page: Compile Testw
+[2024.07.01-20.15.15:880][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2024.07.01-20.15.15:908][ 48]LogSavePackage: Moving '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/TestwDDB2FDA94DB09D2582DCF3BC79A56407.tmp' to '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Content/Mods/PYModMenu/Widgets/Testw.uasset'
+[2024.07.01-20.15.15:925][ 48]AssetCheck: New page: Asset Save: Testw
+[2024.07.01-20.15.15:925][ 48]LogContentValidation: Display: Validating WidgetBlueprint /Game/Mods/PYModMenu/Widgets/Testw.Testw
+[2024.07.01-20.15.17:912][277]BlueprintLog: New page: Compile Testw
+[2024.07.01-20.15.17:974][277]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2024.07.01-20.15.17:997][277]LogSavePackage: Moving '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Testw41858DA149139A7013244A9E9F8DE546.tmp' to '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Content/Mods/PYModMenu/Widgets/Testw.uasset'
+[2024.07.01-20.15.18:332][277]AssetCheck: New page: Asset Save: Testw
+[2024.07.01-20.15.18:332][277]LogContentValidation: Display: Validating WidgetBlueprint /Game/Mods/PYModMenu/Widgets/Testw.Testw
+[2024.07.01-20.15.19:020][352]LogSavePackage: Moving '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Testw58BB97B24E0C9F472DB11E85FEA758BF.tmp' to '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Content/Mods/PYModMenu/Widgets/Testw.uasset'
+[2024.07.01-20.15.19:036][352]AssetCheck: New page: Asset Save: Testw
+[2024.07.01-20.15.19:036][352]LogContentValidation: Display: Validating WidgetBlueprint /Game/Mods/PYModMenu/Widgets/Testw.Testw
+[2024.07.01-20.15.36:809][440]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.07.01-20.15.36:810][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.01-20.15.36:819][440]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.07.01-20.15.36:819][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.01-20.19.44:404][215]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.07.01-20.19.44:427][215]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.07.01-20.19.47:838][617]LogBlueprint: Warning: Reparenting blueprint WidgetBlueprint /Game/Mods/PYModMenu/Widgets/PlayerNameButton.PlayerNameButton from UserWidget to SelectionButton_C...
+[2024.07.01-20.19.47:854][617]BlueprintLog: New page: Compile PlayerNameButton
+[2024.07.01-20.19.47:952][617]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2024.07.01-20.19.47:993][617]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.07.01-20.19.48:057][617]LogSavePackage: Moving '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/PlayerNameButton6C9B1C5B440E3475E97795B6DB4BB398.tmp' to '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Content/Mods/PYModMenu/Widgets/PlayerNameButton.uasset'
+[2024.07.01-20.19.48:092][617]AssetCheck: New page: Asset Save: PlayerNameButton
+[2024.07.01-20.19.48:092][617]LogContentValidation: Display: Validating WidgetBlueprint /Game/Mods/PYModMenu/Widgets/PlayerNameButton.PlayerNameButton
+[2024.07.01-20.19.49:158][741]BlueprintLog: New page: Compile PlayerNameButton
+[2024.07.01-20.19.49:256][741]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2024.07.01-20.19.50:041][829]BlueprintLog: New page: Compile PlayerNameButton
+[2024.07.01-20.19.50:122][829]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2024.07.01-20.19.53:182][181]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Mods/PYModMenu/Widgets/MonsterTab/MonsterSpawnsButton.MonsterSpawnsButton
+[2024.07.01-20.19.59:279][834]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.07.01-20.19.59:299][834]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.07.01-20.20.01:038][ 38]LogBlueprint: Warning: Reparenting blueprint WidgetBlueprint /Game/Mods/PYModMenu/Widgets/MonsterTab/MonsterToList.MonsterToList from UserWidget to SelectionButton_C...
+[2024.07.01-20.20.01:044][ 38]BlueprintLog: New page: Compile MonsterToList
+[2024.07.01-20.20.01:098][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2024.07.01-20.20.01:107][ 38]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.07.01-20.20.01:121][ 38]LogSavePackage: Moving '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/MonsterToListB2FAC5484F69110D18D186A23DD4EF08.tmp' to '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Content/Mods/PYModMenu/Widgets/MonsterTab/MonsterToList.uasset'
+[2024.07.01-20.20.01:143][ 38]AssetCheck: New page: Asset Save: MonsterToList
+[2024.07.01-20.20.01:143][ 38]LogContentValidation: Display: Validating WidgetBlueprint /Game/Mods/PYModMenu/Widgets/MonsterTab/MonsterToList.MonsterToList
+[2024.07.01-20.20.07:803][827]LogContentBrowser: Attempting asset rename: MonsterToList -> MonsterListSelection
+[2024.07.01-20.20.07:880][827]LogMetaData: Removing '/Game/Mods/PYModMenu/Widgets/MonsterTab/MonsterListSelection.MonsterListSelection_C' ref from Metadata '/Game/Mods/PYModMenu/Widgets/MonsterTab/MonsterToList.PackageMetaData'
+[2024.07.01-20.20.07:880][827]LogMetaData: Removing '/Game/Mods/PYModMenu/Widgets/MonsterTab/MonsterListSelection.MonsterListSelection:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Mods/PYModMenu/Widgets/MonsterTab/MonsterToList.PackageMetaData'
+[2024.07.01-20.20.07:880][827]LogMetaData: Removing '/Game/Mods/PYModMenu/Widgets/MonsterTab/MonsterListSelection.MonsterListSelection:Get_MonsterCount_Text_0.K2Node_FunctionResult_0' ref from Metadata '/Game/Mods/PYModMenu/Widgets/MonsterTab/MonsterToList.PackageMetaData'
+[2024.07.01-20.20.07:880][827]LogMetaData: Removing '/Game/Mods/PYModMenu/Widgets/MonsterTab/MonsterListSelection.MonsterListSelection:Get_MonsterCount_Text_0.K2Node_FunctionEntry_0' ref from Metadata '/Game/Mods/PYModMenu/Widgets/MonsterTab/MonsterToList.PackageMetaData'
+[2024.07.01-20.20.07:880][827]LogMetaData: Removing '/Game/Mods/PYModMenu/Widgets/MonsterTab/MonsterListSelection.SKEL_MonsterListSelection_C' ref from Metadata '/Game/Mods/PYModMenu/Widgets/MonsterTab/MonsterToList.PackageMetaData'
+[2024.07.01-20.20.07:880][827]LogMetaData: Removing '/Game/Mods/PYModMenu/Widgets/MonsterTab/MonsterListSelection.SKEL_MonsterListSelection_C:Construct' ref from Metadata '/Game/Mods/PYModMenu/Widgets/MonsterTab/MonsterToList.PackageMetaData'
+[2024.07.01-20.20.07:880][827]LogMetaData: Removing '/Game/Mods/PYModMenu/Widgets/MonsterTab/MonsterListSelection.SKEL_MonsterListSelection_C:BndEvt__MonsterList_ButtonDeleteMonster_K2Node_ComponentBoundEvent_0_OnButtonPressedEvent__DelegateSignature' ref from Metadata '/Game/Mods/PYModMenu/Widgets/MonsterTab/MonsterToList.PackageMetaData'
+[2024.07.01-20.20.07:880][827]LogMetaData: Removing '/Game/Mods/PYModMenu/Widgets/MonsterTab/MonsterListSelection.SKEL_MonsterListSelection_C:BndEvt__MonsterToList_ButtonSelectMonster_K2Node_ComponentBoundEvent_1_OnButtonPressedEvent__DelegateSignature' ref from Metadata '/Game/Mods/PYModMenu/Widgets/MonsterTab/MonsterToList.PackageMetaData'
+[2024.07.01-20.20.07:880][827]LogMetaData: Removing '/Game/Mods/PYModMenu/Widgets/MonsterTab/MonsterListSelection.MonsterListSelection_C:Construct' ref from Metadata '/Game/Mods/PYModMenu/Widgets/MonsterTab/MonsterToList.PackageMetaData'
+[2024.07.01-20.20.07:915][827]LogSavePackage: Moving '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/MonsterListSelectionA7A03CC441D276A469825D9E5AFE7559.tmp' to '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Content/Mods/PYModMenu/Widgets/MonsterTab/MonsterListSelection.uasset'
+[2024.07.01-20.20.08:037][827]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2024.07.01-20.20.08:095][827]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2024.07.01-20.20.08:134][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.07.01-20.20.08:522][827]LogSavePackage: Moving '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/MonsterAliveCheckA30B60D64A0535D1709F71AA431EA27D.tmp' to '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Content/Mods/PYModMenu/MonsterCheckState/MonsterAliveCheck.uasset'
+[2024.07.01-20.20.08:538][827]LogSavePackage: Moving '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/DA_PYModMenuDAFEC8531046120E1FD99F33B14BD65984.tmp' to '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Content/Mods/PYModMenu/DA_PYModMenuDA.uasset'
+[2024.07.01-20.20.08:626][827]AssetCheck: New page: Asset Save: multiple assets
+[2024.07.01-20.20.08:626][827]LogContentValidation: Display: Validating WidgetBlueprint /Game/Mods/PYModMenu/Widgets/MonsterTab/MonsterListSelection.MonsterListSelection
+[2024.07.01-20.20.08:626][827]LogContentValidation: Display: Validating Blueprint /Game/Mods/PYModMenu/MonsterCheckState/MonsterAliveCheck.MonsterAliveCheck
+[2024.07.01-20.20.08:626][827]LogContentValidation: Display: Validating PrimaryAssetLabel /Game/Mods/PYModMenu/DA_PYModMenuDA.DA_PYModMenuDA
+[2024.07.01-20.20.16:336][750]LogContentBrowser: Attempting asset rename: PlayerNameButton -> PlayerListSelection
+[2024.07.01-20.20.16:368][750]LogMetaData: Removing '/Game/Mods/PYModMenu/Widgets/PlayerListSelection.PlayerListSelection_C' ref from Metadata '/Game/Mods/PYModMenu/Widgets/PlayerNameButton.PackageMetaData'
+[2024.07.01-20.20.16:368][750]LogMetaData: Removing '/Game/Mods/PYModMenu/Widgets/PlayerListSelection.PlayerListSelection:Get_PlayerIDText_Text_0.K2Node_FunctionEntry_0' ref from Metadata '/Game/Mods/PYModMenu/Widgets/PlayerNameButton.PackageMetaData'
+[2024.07.01-20.20.16:368][750]LogMetaData: Removing '/Game/Mods/PYModMenu/Widgets/PlayerListSelection.PlayerListSelection:Get_PlayerIDText_Text_0.K2Node_FunctionResult_0' ref from Metadata '/Game/Mods/PYModMenu/Widgets/PlayerNameButton.PackageMetaData'
+[2024.07.01-20.20.16:368][750]LogMetaData: Removing '/Game/Mods/PYModMenu/Widgets/PlayerListSelection.PlayerListSelection:Get_PlayerNameText1_Text_0.K2Node_FunctionEntry_0' ref from Metadata '/Game/Mods/PYModMenu/Widgets/PlayerNameButton.PackageMetaData'
+[2024.07.01-20.20.16:368][750]LogMetaData: Removing '/Game/Mods/PYModMenu/Widgets/PlayerListSelection.PlayerListSelection:Get_PlayerNameText1_Text_0.K2Node_FunctionResult_0' ref from Metadata '/Game/Mods/PYModMenu/Widgets/PlayerNameButton.PackageMetaData'
+[2024.07.01-20.20.16:368][750]LogMetaData: Removing '/Game/Mods/PYModMenu/Widgets/PlayerListSelection.PlayerListSelection_C:OnUpdatePlayerStates' ref from Metadata '/Game/Mods/PYModMenu/Widgets/PlayerNameButton.PackageMetaData'
+[2024.07.01-20.20.16:368][750]LogMetaData: Removing '/Game/Mods/PYModMenu/Widgets/PlayerListSelection.PlayerListSelection_C:OnPlayerAlive_Event' ref from Metadata '/Game/Mods/PYModMenu/Widgets/PlayerNameButton.PackageMetaData'
+[2024.07.01-20.20.16:368][750]LogMetaData: Removing '/Game/Mods/PYModMenu/Widgets/PlayerListSelection.PlayerListSelection_C:OnPlayerJoined_Event' ref from Metadata '/Game/Mods/PYModMenu/Widgets/PlayerNameButton.PackageMetaData'
+[2024.07.01-20.20.16:368][750]LogMetaData: Removing '/Game/Mods/PYModMenu/Widgets/PlayerListSelection.PlayerListSelection_C:Construct' ref from Metadata '/Game/Mods/PYModMenu/Widgets/PlayerNameButton.PackageMetaData'
+[2024.07.01-20.20.16:368][750]LogMetaData: Removing '/Game/Mods/PYModMenu/Widgets/PlayerListSelection.SKEL_PlayerListSelection_C:Construct' ref from Metadata '/Game/Mods/PYModMenu/Widgets/PlayerNameButton.PackageMetaData'
+[2024.07.01-20.20.16:368][750]LogMetaData: Removing '/Game/Mods/PYModMenu/Widgets/PlayerListSelection.SKEL_PlayerListSelection_C:OnEnableToggle_Event' ref from Metadata '/Game/Mods/PYModMenu/Widgets/PlayerNameButton.PackageMetaData'
+[2024.07.01-20.20.16:368][750]LogMetaData: Removing '/Game/Mods/PYModMenu/Widgets/PlayerListSelection.SKEL_PlayerListSelection_C:OnClearPlayerStates_Event' ref from Metadata '/Game/Mods/PYModMenu/Widgets/PlayerNameButton.PackageMetaData'
+[2024.07.01-20.20.16:368][750]LogMetaData: Removing '/Game/Mods/PYModMenu/Widgets/PlayerListSelection.SKEL_PlayerListSelection_C:OnUpdatePlayerStates' ref from Metadata '/Game/Mods/PYModMenu/Widgets/PlayerNameButton.PackageMetaData'
+[2024.07.01-20.20.16:368][750]LogMetaData: Removing '/Game/Mods/PYModMenu/Widgets/PlayerListSelection.SKEL_PlayerListSelection_C:OnRemovePlayerToggle_Event' ref from Metadata '/Game/Mods/PYModMenu/Widgets/PlayerNameButton.PackageMetaData'
+[2024.07.01-20.20.16:368][750]LogMetaData: Removing '/Game/Mods/PYModMenu/Widgets/PlayerListSelection.SKEL_PlayerListSelection_C:OnAddPlayerToggle_Event' ref from Metadata '/Game/Mods/PYModMenu/Widgets/PlayerNameButton.PackageMetaData'
+[2024.07.01-20.20.16:368][750]LogMetaData: Removing '/Game/Mods/PYModMenu/Widgets/PlayerListSelection.SKEL_PlayerListSelection_C:BndEvt__PlayerNameButton_ButtonListPlayer1_K2Node_ComponentBoundEvent_1_OnButtonPressedEvent__DelegateSignature' ref from Metadata '/Game/Mods/PYModMenu/Widgets/PlayerNameButton.PackageMetaData'
+[2024.07.01-20.20.16:368][750]LogMetaData: Removing '/Game/Mods/PYModMenu/Widgets/PlayerListSelection.SKEL_PlayerListSelection_C:OnPlayedDied_Event' ref from Metadata '/Game/Mods/PYModMenu/Widgets/PlayerNameButton.PackageMetaData'
+[2024.07.01-20.20.16:368][750]LogMetaData: Removing '/Game/Mods/PYModMenu/Widgets/PlayerListSelection.SKEL_PlayerListSelection_C:OnPlayerJoined_Event' ref from Metadata '/Game/Mods/PYModMenu/Widgets/PlayerNameButton.PackageMetaData'
+[2024.07.01-20.20.16:368][750]LogMetaData: Removing '/Game/Mods/PYModMenu/Widgets/PlayerListSelection.SKEL_PlayerListSelection_C:OnPlayerAlive_Event' ref from Metadata '/Game/Mods/PYModMenu/Widgets/PlayerNameButton.PackageMetaData'
+[2024.07.01-20.20.16:368][750]LogMetaData: Removing '/Game/Mods/PYModMenu/Widgets/PlayerListSelection.SKEL_PlayerListSelection_C:FixIDPosition' ref from Metadata '/Game/Mods/PYModMenu/Widgets/PlayerNameButton.PackageMetaData'
+[2024.07.01-20.20.16:368][750]LogMetaData: Removing '/Game/Mods/PYModMenu/Widgets/PlayerListSelection.SKEL_PlayerListSelection_C' ref from Metadata '/Game/Mods/PYModMenu/Widgets/PlayerNameButton.PackageMetaData'
+[2024.07.01-20.20.16:444][750]LogSavePackage: Moving '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/PlayerListSelectionA7B886134D2A23A6742143B104D48C1D.tmp' to '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Content/Mods/PYModMenu/Widgets/PlayerListSelection.uasset'
+[2024.07.01-20.20.16:556][750]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2024.07.01-20.20.16:613][750]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2024.07.01-20.20.16:653][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.07.01-20.20.16:685][750]LogSavePackage: Moving '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/PlayerExistenceCompC4CC839F4EF6A56A73AE6F856858939D.tmp' to '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Content/Mods/PYModMenu/PlayerStateCheck/PlayerExistenceComp.uasset'
+[2024.07.01-20.20.16:697][750]LogSavePackage: Moving '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/PlayerAliveCompC5C8C3B44E27C81000CC12BCA9D71A09.tmp' to '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Content/Mods/PYModMenu/PlayerStateCheck/PlayerAliveComp.uasset'
+[2024.07.01-20.20.16:841][750]LogSavePackage: Moving '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/WBP_MonsterTab5C49CA1B46A09FE00FC02CA2C7E422AA.tmp' to '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Content/Mods/PYModMenu/WBP_MonsterTab.uasset'
+[2024.07.01-20.20.16:842][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mods/PYModMenu/ModMenu" FILE="../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Content/Mods/PYModMenu/ModMenu.uasset" SILENT=true
+[2024.07.01-20.20.17:010][750]LogSavePackage: Moving '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/ModMenu3FD9EFD64391602F6ECBFEADC42B94E7.tmp' to '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Content/Mods/PYModMenu/ModMenu.uasset'
+[2024.07.01-20.20.17:026][750]LogSavePackage: Moving '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/DA_PYModMenuDAAEE390B04BCF8F0571EB0AA3EAA0C828.tmp' to '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Content/Mods/PYModMenu/DA_PYModMenuDA.uasset'
+[2024.07.01-20.20.17:076][750]AssetCheck: New page: Asset Save: multiple assets
+[2024.07.01-20.20.17:076][750]LogContentValidation: Display: Validating WidgetBlueprint /Game/Mods/PYModMenu/ModMenu.ModMenu
+[2024.07.01-20.20.17:086][750]LogContentValidation: Display: Validating WidgetBlueprint /Game/Mods/PYModMenu/WBP_MonsterTab.WBP_MonsterTab
+[2024.07.01-20.20.17:089][750]LogContentValidation: Display: Validating Blueprint /Game/Mods/PYModMenu/PlayerStateCheck/PlayerAliveComp.PlayerAliveComp
+[2024.07.01-20.20.17:089][750]LogContentValidation: Display: Validating WidgetBlueprint /Game/Mods/PYModMenu/Widgets/PlayerListSelection.PlayerListSelection
+[2024.07.01-20.20.17:089][750]LogContentValidation: Display: Validating Blueprint /Game/Mods/PYModMenu/PlayerStateCheck/PlayerExistenceComp.PlayerExistenceComp
+[2024.07.01-20.20.17:089][750]LogContentValidation: Display: Validating PrimaryAssetLabel /Game/Mods/PYModMenu/DA_PYModMenuDA.DA_PYModMenuDA
+[2024.07.01-20.20.19:896][ 85]LogContentBrowser: Attempting asset rename: SelectionButton -> Main_SelectionButton
+[2024.07.01-20.20.19:918][ 85]LogMetaData: Removing '/Game/Mods/PYModMenu/Widgets/Main_SelectionButton.SKEL_Main_SelectionButton_C' ref from Metadata '/Game/Mods/PYModMenu/Widgets/SelectionButton.PackageMetaData'
+[2024.07.01-20.20.19:918][ 85]LogMetaData: Removing '/Game/Mods/PYModMenu/Widgets/Main_SelectionButton.Main_SelectionButton_C' ref from Metadata '/Game/Mods/PYModMenu/Widgets/SelectionButton.PackageMetaData'
+[2024.07.01-20.20.19:918][ 85]LogMetaData: Removing '/Game/Mods/PYModMenu/Widgets/Main_SelectionButton.Main_SelectionButton:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Mods/PYModMenu/Widgets/SelectionButton.PackageMetaData'
+[2024.07.01-20.20.19:918][ 85]LogMetaData: Removing '/Game/Mods/PYModMenu/Widgets/Main_SelectionButton.Main_SelectionButton:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Mods/PYModMenu/Widgets/SelectionButton.PackageMetaData'
+[2024.07.01-20.20.19:918][ 85]LogMetaData: Removing '/Game/Mods/PYModMenu/Widgets/Main_SelectionButton.Main_SelectionButton:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Mods/PYModMenu/Widgets/SelectionButton.PackageMetaData'
+[2024.07.01-20.20.19:918][ 85]LogMetaData: Removing '/Game/Mods/PYModMenu/Widgets/Main_SelectionButton.Main_SelectionButton:ClearAllSelection.K2Node_FunctionEntry_0' ref from Metadata '/Game/Mods/PYModMenu/Widgets/SelectionButton.PackageMetaData'
+[2024.07.01-20.20.19:918][ 85]LogMetaData: Removing '/Game/Mods/PYModMenu/Widgets/Main_SelectionButton.SKEL_Main_SelectionButton_C:Tick' ref from Metadata '/Game/Mods/PYModMenu/Widgets/SelectionButton.PackageMetaData'
+[2024.07.01-20.20.19:918][ 85]LogMetaData: Removing '/Game/Mods/PYModMenu/Widgets/Main_SelectionButton.SKEL_Main_SelectionButton_C:Construct' ref from Metadata '/Game/Mods/PYModMenu/Widgets/SelectionButton.PackageMetaData'
+[2024.07.01-20.20.19:918][ 85]LogMetaData: Removing '/Game/Mods/PYModMenu/Widgets/Main_SelectionButton.SKEL_Main_SelectionButton_C:PreConstruct' ref from Metadata '/Game/Mods/PYModMenu/Widgets/SelectionButton.PackageMetaData'
+[2024.07.01-20.20.19:940][ 85]LogSavePackage: Moving '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Main_SelectionButton313CC3F948F1BBA18F461FBE258E13D6.tmp' to '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Content/Mods/PYModMenu/Widgets/Main_SelectionButton.uasset'
+[2024.07.01-20.20.20:048][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2024.07.01-20.20.20:102][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2024.07.01-20.20.20:141][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.07.01-20.20.20:178][ 85]LogSavePackage: Moving '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/DA_PYModMenuDAC2B8DF5A4BD55281F2851DB3966F8277.tmp' to '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Content/Mods/PYModMenu/DA_PYModMenuDA.uasset'
+[2024.07.01-20.20.20:192][ 85]LogSavePackage: Moving '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/MonsterListSelection64BCAB7B4ED8479105A154AAEB238372.tmp' to '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Content/Mods/PYModMenu/Widgets/MonsterTab/MonsterListSelection.uasset'
+[2024.07.01-20.20.20:245][ 85]LogSavePackage: Moving '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/PlayerListSelection53BBDCCD4B4B40E65181728393362A3B.tmp' to '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Content/Mods/PYModMenu/Widgets/PlayerListSelection.uasset'
+[2024.07.01-20.20.20:249][ 85]LogSavePackage: Moving '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Testw554832C741EE96592E720A8450FFF380.tmp' to '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Content/Mods/PYModMenu/Widgets/Testw.uasset'
+[2024.07.01-20.20.20:295][ 85]AssetCheck: New page: Asset Save: multiple assets
+[2024.07.01-20.20.20:295][ 85]LogContentValidation: Display: Validating WidgetBlueprint /Game/Mods/PYModMenu/Widgets/MonsterTab/MonsterListSelection.MonsterListSelection
+[2024.07.01-20.20.20:295][ 85]LogContentValidation: Display: Validating WidgetBlueprint /Game/Mods/PYModMenu/Widgets/PlayerListSelection.PlayerListSelection
+[2024.07.01-20.20.20:296][ 85]LogContentValidation: Display: Validating WidgetBlueprint /Game/Mods/PYModMenu/Widgets/Testw.Testw
+[2024.07.01-20.20.20:296][ 85]LogContentValidation: Display: Validating PrimaryAssetLabel /Game/Mods/PYModMenu/DA_PYModMenuDA.DA_PYModMenuDA
+[2024.07.01-20.20.20:296][ 85]LogContentValidation: Display: Validating WidgetBlueprint /Game/Mods/PYModMenu/Widgets/Main_SelectionButton.Main_SelectionButton
+[2024.07.01-20.20.33:141][446]LogSavePackage: Moving '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Main_SelectionButtonC4D8F97046298B2A4962E4B310255813.tmp' to '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Content/Mods/PYModMenu/Widgets/Main_SelectionButton.uasset'
+[2024.07.01-20.20.33:155][446]AssetCheck: New page: Asset Save: Main_SelectionButton
+[2024.07.01-20.20.33:155][446]LogContentValidation: Display: Validating WidgetBlueprint /Game/Mods/PYModMenu/Widgets/Main_SelectionButton.Main_SelectionButton
+[2024.07.01-20.20.38:978][130]BlueprintLog: New page: Compile Main_SelectionButton
+[2024.07.01-20.20.38:990][130]LogBlueprint: Warning: [AssetLog] C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Content\Mods\PYModMenu\Widgets\Main_SelectionButton.uasset: [Compiler] Could not find a variable named "ModMenuRef" in 'Main_SelectionButton_C'.
+Make sure 'Main_SelectionButton_C' has been compiled for  Get ModMenuRef
+[2024.07.01-20.20.38:990][130]LogBlueprint: Warning: [AssetLog] C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Content\Mods\PYModMenu\Widgets\Main_SelectionButton.uasset: [Compiler] Could not find a variable named "TogglePanelPlayerList1" in 'Main_SelectionButton_C'.
+Make sure 'Main_SelectionButton_C' has been compiled for  Get TogglePanelPlayerList1
+[2024.07.01-20.20.38:991][130]LogBlueprint: Warning: [AssetLog] C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Content\Mods\PYModMenu\Widgets\Main_SelectionButton.uasset: [Compiler] Could not find a variable named "Player Alive" in 'Main_SelectionButton_C'.
+Make sure 'Main_SelectionButton_C' has been compiled for  Get Player Alive
+[2024.07.01-20.20.38:991][130]LogBlueprint: Warning: [AssetLog] C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Content\Mods\PYModMenu\Widgets\Main_SelectionButton.uasset: [Compiler] Could not find a variable named "Player Alive" in 'Main_SelectionButton_C'.
+Make sure 'Main_SelectionButton_C' has been compiled for  Get Player Alive
+[2024.07.01-20.20.38:991][130]LogBlueprint: Warning: [AssetLog] C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Content\Mods\PYModMenu\Widgets\Main_SelectionButton.uasset: [Compiler] Could not find a variable named "Player Alive" in 'Main_SelectionButton_C'.
+Make sure 'Main_SelectionButton_C' has been compiled for  Set Player Alive
+[2024.07.01-20.20.38:991][130]LogBlueprint: Warning: [AssetLog] C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Content\Mods\PYModMenu\Widgets\Main_SelectionButton.uasset: [Compiler] Could not find a variable named "ModMenuRef" in 'Main_SelectionButton_C'.
+Make sure 'Main_SelectionButton_C' has been compiled for  Get ModMenuRef
+[2024.07.01-20.20.38:991][130]LogBlueprint: Warning: [AssetLog] C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Content\Mods\PYModMenu\Widgets\Main_SelectionButton.uasset: [Compiler] Could not find a variable named "ModMenuRef" in 'Main_SelectionButton_C'.
+Make sure 'Main_SelectionButton_C' has been compiled for  Get ModMenuRef
+[2024.07.01-20.20.38:992][130]LogBlueprint: Warning: [AssetLog] C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Content\Mods\PYModMenu\Widgets\Main_SelectionButton.uasset: [Compiler] Could not find a variable named "PlayerID" in 'Main_SelectionButton_C'.
+Make sure 'Main_SelectionButton_C' has been compiled for  Get PlayerID
+[2024.07.01-20.20.38:992][130]LogBlueprint: Warning: [AssetLog] C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Content\Mods\PYModMenu\Widgets\Main_SelectionButton.uasset: [Compiler] Could not find a variable named "ModMenuRef" in 'Main_SelectionButton_C'.
+Make sure 'Main_SelectionButton_C' has been compiled for  Get ModMenuRef
+[2024.07.01-20.20.38:992][130]LogBlueprint: Warning: [AssetLog] C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Content\Mods\PYModMenu\Widgets\Main_SelectionButton.uasset: [Compiler] Could not find a variable named "TogglePanelPlayerList1" in 'Main_SelectionButton_C'.
+Make sure 'Main_SelectionButton_C' has been compiled for  Get TogglePanelPlayerList1
+[2024.07.01-20.20.38:992][130]LogBlueprint: Warning: [AssetLog] C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Content\Mods\PYModMenu\Widgets\Main_SelectionButton.uasset: [Compiler] On Pressed (ButtonListPlayer1)  does not have a valid matching component!
+[2024.07.01-20.20.39:000][130]LogBlueprint: Error: [AssetLog] C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Content\Mods\PYModMenu\Widgets\Main_SelectionButton.uasset: [Compiler] The property associated with  Mod Menu Ref  could not be found in '/Game/Mods/PYModMenu/Widgets/Main_SelectionButton.Main_SelectionButton_C'
+[2024.07.01-20.20.39:001][130]LogBlueprint: Error: [AssetLog] C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Content\Mods\PYModMenu\Widgets\Main_SelectionButton.uasset: [Compiler] Couldn't find target for dynamically bound delegate node  Bind Event to On Remove Player Toggle
+[2024.07.01-20.20.39:001][130]LogBlueprint: Error: [AssetLog] C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Content\Mods\PYModMenu\Widgets\Main_SelectionButton.uasset: [Compiler] The property associated with  Toggle Panel Player List 1  could not be found in '/Game/Mods/PYModMenu/Widgets/Main_SelectionButton.Main_SelectionButton_C'
+[2024.07.01-20.20.39:001][130]LogBlueprint: Error: [AssetLog] C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Content\Mods\PYModMenu\Widgets\Main_SelectionButton.uasset: [Compiler] The property associated with  Mod Menu Ref  could not be found in '/Game/Mods/PYModMenu/Widgets/Main_SelectionButton.Main_SelectionButton_C'
+[2024.07.01-20.20.39:001][130]LogBlueprint: Error: [AssetLog] C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Content\Mods\PYModMenu\Widgets\Main_SelectionButton.uasset: [Compiler] The property associated with  Player ID  could not be found in '/Game/Mods/PYModMenu/Widgets/Main_SelectionButton.Main_SelectionButton_C'
+[2024.07.01-20.20.39:001][130]LogBlueprint: Error: [AssetLog] C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Content\Mods\PYModMenu\Widgets\Main_SelectionButton.uasset: [Compiler] The property associated with  Mod Menu Ref  could not be found in '/Game/Mods/PYModMenu/Widgets/Main_SelectionButton.Main_SelectionButton_C'
+[2024.07.01-20.20.39:002][130]LogBlueprint: Error: [AssetLog] C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Content\Mods\PYModMenu\Widgets\Main_SelectionButton.uasset: [Compiler] The property associated with  Mod Menu Ref  could not be found in '/Game/Mods/PYModMenu/Widgets/Main_SelectionButton.Main_SelectionButton_C'
+[2024.07.01-20.20.39:002][130]LogBlueprint: Error: [AssetLog] C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Content\Mods\PYModMenu\Widgets\Main_SelectionButton.uasset: [Compiler] The property associated with  Player Alive  could not be found in '/Game/Mods/PYModMenu/Widgets/Main_SelectionButton.Main_SelectionButton_C'
+[2024.07.01-20.20.39:002][130]LogBlueprint: Error: [AssetLog] C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Content\Mods\PYModMenu\Widgets\Main_SelectionButton.uasset: [Compiler] The property associated with  Player Alive  could not be found in '/Game/Mods/PYModMenu/Widgets/Main_SelectionButton.Main_SelectionButton_C'
+[2024.07.01-20.20.39:002][130]LogBlueprint: Error: [AssetLog] C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Content\Mods\PYModMenu\Widgets\Main_SelectionButton.uasset: [Compiler] The property associated with  Player Alive  could not be found in '/Game/Mods/PYModMenu/Widgets/Main_SelectionButton.Main_SelectionButton_C'
+[2024.07.01-20.20.39:002][130]LogBlueprint: Error: [AssetLog] C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Content\Mods\PYModMenu\Widgets\Main_SelectionButton.uasset: [Compiler] The property associated with  Toggle Panel Player List 1  could not be found in '/Game/Mods/PYModMenu/Widgets/Main_SelectionButton.Main_SelectionButton_C'
+[2024.07.01-20.20.39:113][130]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2024.07.01-20.20.39:177][130]LogSavePackage: Moving '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Main_SelectionButtonDB8FE53C480D4F80E0F583AEFF6FF479.tmp' to '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Content/Mods/PYModMenu/Widgets/Main_SelectionButton.uasset'
+[2024.07.01-20.20.39:197][130]AssetCheck: New page: Asset Save: Main_SelectionButton
+[2024.07.01-20.20.39:197][130]LogContentValidation: Display: Validating WidgetBlueprint /Game/Mods/PYModMenu/Widgets/Main_SelectionButton.Main_SelectionButton
+[2024.07.01-20.20.39:555][164]LogSavePackage: Moving '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Main_SelectionButtonF1F06E90492B56B6BBD3C49F3EAD8666.tmp' to '../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Content/Mods/PYModMenu/Widgets/Main_SelectionButton.uasset'
+[2024.07.01-20.20.39:577][164]AssetCheck: New page: Asset Save: Main_SelectionButton
+[2024.07.01-20.20.39:577][164]LogContentValidation: Display: Validating WidgetBlueprint /Game/Mods/PYModMenu/Widgets/Main_SelectionButton.Main_SelectionButton
+[2024.07.01-20.21.00:959][680]LogBlueprint: Warning: Blueprint PlayerListSelection (child of/implements Main_SelectionButton) has a member variable with a conflicting name (ModMenuRef). Changing to ModMenuRef_0.
+[2024.07.01-20.21.00:968][680]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2024.07.01-20.21.01:047][680]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.078 s
+[2024.07.01-20.21.01:047][680]LogOutputDevice: Error: === Handled ensure: ===
+[2024.07.01-20.21.01:047][680]LogOutputDevice: Error: 
+[2024.07.01-20.21.01:047][680]LogOutputDevice: Error: Ensure condition failed: !FBlueprintCompileReinstancer::IsReinstClass(OwnerClass) [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetReinstanceUtilities.cpp] [Line: 1763]
+[2024.07.01-20.21.01:047][680]LogOutputDevice: Error: OwnerClass should not be 'REINST_'! This means that a REINST class was parented to another REINST class, causing unwanted recursion!
+[2024.07.01-20.21.01:047][680]LogOutputDevice: Error: Stack: 
+[2024.07.01-20.21.01:047][680]LogOutputDevice: Error: [Callstack] 0x00007ffe540048c9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2024.07.01-20.21.01:047][680]LogOutputDevice: Error: [Callstack] 0x00007ffe5381bd78 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2024.07.01-20.21.01:047][680]LogOutputDevice: Error: [Callstack] 0x00007ffe51d3e3bd UE4Editor-Kismet.dll!UnknownFunction []
+[2024.07.01-20.21.01:047][680]LogOutputDevice: Error: [Callstack] 0x00007ffe51d3e501 UE4Editor-Kismet.dll!UnknownFunction []
+[2024.07.01-20.21.01:047][680]LogOutputDevice: Error: [Callstack] 0x00007ffe51d14627 UE4Editor-Kismet.dll!UnknownFunction []
+[2024.07.01-20.21.01:047][680]LogOutputDevice: Error: [Callstack] 0x00007ffe51cbc02f UE4Editor-Kismet.dll!UnknownFunction []
+[2024.07.01-20.21.01:047][680]LogOutputDevice: Error: [Callstack] 0x00007ffe51cbbd71 UE4Editor-Kismet.dll!UnknownFunction []
+[2024.07.01-20.21.01:047][680]LogOutputDevice: Error: [Callstack] 0x00007ffe53797752 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2024.07.01-20.21.01:047][680]LogOutputDevice: Error: [Callstack] 0x00007ffe5376986d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2024.07.01-20.21.01:047][680]LogOutputDevice: Error: [Callstack] 0x00007ffe4f880299 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2024.07.01-20.21.01:047][680]LogOutputDevice: Error: [Callstack] 0x00007ffe4f8542e2 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2024.07.01-20.21.01:047][680]LogOutputDevice: Error: [Callstack] 0x00007ffe6acb1b55 UE4Editor-Slate.dll!UnknownFunction []
+[2024.07.01-20.21.01:047][680]LogOutputDevice: Error: [Callstack] 0x00007ffe6acb8370 UE4Editor-Slate.dll!UnknownFunction []
+[2024.07.01-20.21.01:047][680]LogOutputDevice: Error: [Callstack] 0x00007ffe6ac8c587 UE4Editor-Slate.dll!UnknownFunction []
+[2024.07.01-20.21.01:047][680]LogOutputDevice: Error: [Callstack] 0x00007ffe6ad2a6fe UE4Editor-Slate.dll!UnknownFunction []
+[2024.07.01-20.21.01:047][680]LogOutputDevice: Error: [Callstack] 0x00007ffe6ad4280e UE4Editor-Slate.dll!UnknownFunction []
+[2024.07.01-20.21.01:047][680]LogOutputDevice: Error: [Callstack] 0x00007ffe6acb9ae5 UE4Editor-Slate.dll!UnknownFunction []
+[2024.07.01-20.21.01:047][680]LogOutputDevice: Error: [Callstack] 0x00007ffe6ab9421e UE4Editor-Slate.dll!UnknownFunction []
+[2024.07.01-20.21.01:047][680]LogOutputDevice: Error: [Callstack] 0x00007ffe6ac0e104 UE4Editor-Slate.dll!UnknownFunction []
+[2024.07.01-20.21.01:047][680]LogOutputDevice: Error: [Callstack] 0x00007ffe6abf7097 UE4Editor-Slate.dll!UnknownFunction []
+[2024.07.01-20.21.01:047][680]LogOutputDevice: Error: [Callstack] 0x00007ffe6abe9b62 UE4Editor-Slate.dll!UnknownFunction []
+[2024.07.01-20.21.01:047][680]LogOutputDevice: Error: [Callstack] 0x00007ffe6b3dc025 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2024.07.01-20.21.01:047][680]LogOutputDevice: Error: [Callstack] 0x00007ffe6b3c92b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2024.07.01-20.21.01:047][680]LogOutputDevice: Error: [Callstack] 0x00007ffe6b3de465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2024.07.01-20.21.01:047][680]LogOutputDevice: Error: [Callstack] 0x00007ffe6b3c4410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2024.07.01-20.21.01:047][680]LogOutputDevice: Error: [Callstack] 0x00007ffece7fef5c USER32.dll!UnknownFunction []
+[2024.07.01-20.21.01:047][680]LogOutputDevice: Error: [Callstack] 0x00007ffece7fe684 USER32.dll!UnknownFunction []
+[2024.07.01-20.21.01:047][680]LogOutputDevice: Error: [Callstack] 0x00007ffe6b3dfcd4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2024.07.01-20.21.01:047][680]LogOutputDevice: Error: [Callstack] 0x00007ff728d27621 UE4Editor.exe!UnknownFunction []
+[2024.07.01-20.21.01:048][680]LogOutputDevice: Error: [Callstack] 0x00007ff728d40fcc UE4Editor.exe!UnknownFunction []
+[2024.07.01-20.21.01:048][680]LogOutputDevice: Error: [Callstack] 0x00007ff728d410ba UE4Editor.exe!UnknownFunction []
+[2024.07.01-20.21.01:048][680]LogOutputDevice: Error: [Callstack] 0x00007ff728d440dd UE4Editor.exe!UnknownFunction []
+[2024.07.01-20.21.01:048][680]LogOutputDevice: Error: [Callstack] 0x00007ff728d55984 UE4Editor.exe!UnknownFunction []
+[2024.07.01-20.21.01:048][680]LogOutputDevice: Error: [Callstack] 0x00007ff728d5853a UE4Editor.exe!UnknownFunction []
+[2024.07.01-20.21.01:048][680]LogOutputDevice: Error: [Callstack] 0x00007ffecd8f7344 KERNEL32.DLL!UnknownFunction []
+[2024.07.01-20.21.01:048][680]LogOutputDevice: Error: [Callstack] 0x00007ffecf17cc91 ntdll.dll!UnknownFunction []
+[2024.07.01-20.21.01:048][680]LogOutputDevice: Error: 
+[2024.07.01-20.21.01:055][680]LogStats:                SubmitErrorReport -  0.000 s
