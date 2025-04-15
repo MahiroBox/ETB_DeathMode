@@ -9,6 +9,7 @@ ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
 0,/Engine/BasicShapes/Plane,StaticMesh,Hard,5073,None
 0,/Engine/BasicShapes/Sphere,StaticMesh,Hard,97542,None
 0,/Engine/EditorBlueprintResources/StandardMacros,Blueprint,Hard,1021,None
+0,/Engine/EditorBlueprintResources/StandardMacros,BlueprintGeneratedClass,Hard,1021,None
 0,/Engine/EditorLandscapeResources/DataLayer,LandscapeLayerInfoObject,Hard,746,None
 0,/Engine/EditorLandscapeResources/DefaultAlphaTexture,Texture2D,Hard,22947,None
 0,/Engine/EditorMaterials/Camera/CineMat,Material,Hard,59963,None
@@ -47,6 +48,7 @@ ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
 0,/Engine/EditorResources/SequenceRecorder/Countdown,Texture2D,Hard,148613,None
 0,/Engine/EditorResources/SequenceRecorder/RecordingIndicator,Texture2D,Hard,2199,None
 0,/Engine/EngineDamageTypes/DmgTypeBP_Environmental,Blueprint,Hard,1178,None
+0,/Engine/EngineDamageTypes/DmgTypeBP_Environmental,BlueprintGeneratedClass,Hard,1178,None
 0,/Engine/EngineDebugMaterials/DebugEditorMaterial,Material,Hard,14120,None
 0,/Engine/EngineDebugMaterials/DebugMeshMaterial,Material,Hard,22822,None
 0,/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent,Material,Hard,20789,None
@@ -117,6 +119,7 @@ ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
 0,/Engine/EngineResources/GradientTexture0,Texture2D,Hard,6861,None
 0,/Engine/EngineResources/WhiteSquareTexture,Texture2D,Hard,1744,None
 0,/Engine/EngineSky/BP_Sky_Sphere,Blueprint,Hard,18699,None
+0,/Engine/EngineSky/BP_Sky_Sphere,BlueprintGeneratedClass,Hard,18699,None
 0,/Engine/EngineSky/C_Sky_Cloud_Color,CurveLinearColor,Hard,1725,None
 0,/Engine/EngineSky/C_Sky_Horizon_Color,CurveLinearColor,Hard,1729,None
 0,/Engine/EngineSky/C_Sky_Zenith_Color,CurveLinearColor,Hard,1808,None
@@ -221,8 +224,6 @@ ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
 2,/Game/Mods/PYInsanityMod/CustomSystems/AISpeedType,UserDefinedEnum,Hard,1255,None
 2,/Game/Mods/PYInsanityMod/CustomSystems/BP_BetterTrigger,Blueprint,Hard,9531,None
 2,/Game/Mods/PYInsanityMod/CustomSystems/BP_BetterTrigger,BlueprintGeneratedClass,Hard,9531,None
-2,/Game/Mods/PYInsanityMod/CustomSystems/BP_PYINS_CustomInteractable,Blueprint,Hard,9711,None
-2,/Game/Mods/PYInsanityMod/CustomSystems/BP_PYINS_CustomInteractable,BlueprintGeneratedClass,Hard,9711,None
 2,/Game/Mods/PYInsanityMod/CustomSystems/BPC_AISpeed,Blueprint,Hard,4545,None
 2,/Game/Mods/PYInsanityMod/CustomSystems/BPC_AISpeed,BlueprintGeneratedClass,Hard,4545,None
 2,/Game/Mods/PYInsanityMod/CustomSystems/BPC_CheckGround,Blueprint,Hard,7256,None
@@ -578,6 +579,7 @@ ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
 8,/Game/Mods/Z_ExampleLevel_P/DataTables/DT_ExampleLevel,DataTable,Hard,1971,None
 8,/Game/Mods/Z_ExampleLevel_P/DataTables/DT_Level_ExampleLevel,DataTable,Hard,1973,None
 8,/Game/Mods/Z_ExampleLevel_P/ExampleLevelModActor,Blueprint,Hard,2777,None
+8,/Game/Mods/Z_ExampleLevel_P/ExampleLevelModActor,BlueprintGeneratedClass,Hard,2777,None
 8,/Game/Mods/Z_ExampleLevel_P/Levels/ExampleLevel,World,Hard,620877,None
 8,/Game/Mods/Z_ExampleLevel_P/Levels/ExampleLevel,BlueprintGeneratedClass,Hard,620877,None
 8,/Game/Mods/Z_ExampleLevel_P/Textures/example,Texture2D,Hard,19457,None
@@ -601,6 +603,7 @@ ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
 0,/Game/VictorianInteriorAssets/Mesh/VIA_PRP_Gramophone,StaticMesh,Soft From Unassigned Package? Best Guess: /Game/Mods/PYInsanityMod/DataTables/DT_PYINS->/Game/Mods/PYInsanityMod/PYINS_MainBP->/Game/Mods/PYInsanityMod/Maps/Snackrooms/PYINS_Snackrooms->/Game/Mods/PYInsanityMod/Maps/Snackrooms/Datas/DT_Snackrooms_ObjectsSpawn->/Game/VictorianInteriorAssets/Mesh/VIA_PRP_Gramophone,7780,None
 0,/Game/VictorianInteriorAssets/Mesh/VIA_PRP_Gramophone_Disc,StaticMesh,Soft From Unassigned Package? Best Guess: /Game/Mods/PYInsanityMod/DataTables/DT_PYINS->/Game/Mods/PYInsanityMod/PYINS_MainBP->/Game/Mods/PYInsanityMod/Maps/Snackrooms/PYINS_Snackrooms->/Game/Mods/PYInsanityMod/Maps/Snackrooms/Datas/DT_Snackrooms_ObjectsSpawn->/Game/VictorianInteriorAssets/Mesh/VIA_PRP_Gramophone_Disc,7790,None
 0,/MagicLeapPassableWorld/MagicLeapARPinInfoActor,Blueprint,Hard,28477,None
+0,/MagicLeapPassableWorld/MagicLeapARPinInfoActor,BlueprintGeneratedClass,Hard,28477,None
 0,/OculusVR/Materials/OculusMR_ChromaKey,Material,Hard,27219,None
 0,/OculusVR/Materials/OculusMR_OpaqueColoredMaterial,Material,Hard,6652,None
 0,/OculusVR/Materials/PokeAHoleMaterial,Material,Hard,18829,None

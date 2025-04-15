@@ -4,7 +4,6 @@ C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Saved\Cooked\Windo
 C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Saved\Cooked\WindowsNoEditor\EscapeTheBackrooms\Content\Mods\PYInsanityMod\CustomSystems\AIBPC_ChangeAction
 C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Saved\Cooked\WindowsNoEditor\EscapeTheBackrooms\Content\Mods\PYInsanityMod\CustomSystems\AISpeedType
 C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Saved\Cooked\WindowsNoEditor\EscapeTheBackrooms\Content\Mods\PYInsanityMod\CustomSystems\BP_BetterTrigger
-C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Saved\Cooked\WindowsNoEditor\EscapeTheBackrooms\Content\Mods\PYInsanityMod\CustomSystems\BP_PYINS_CustomInteractable
 C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Saved\Cooked\WindowsNoEditor\EscapeTheBackrooms\Content\Mods\PYInsanityMod\CustomSystems\BPC_AISpeed
 C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Saved\Cooked\WindowsNoEditor\EscapeTheBackrooms\Content\Mods\PYInsanityMod\CustomSystems\BPC_CheckGround
 C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Saved\Cooked\WindowsNoEditor\EscapeTheBackrooms\Content\Mods\PYInsanityMod\CustomSystems\BPC_CommonMisc
