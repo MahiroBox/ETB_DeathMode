@@ -75,3 +75,6 @@ DerivedDataCache/*
 /Intermediate/Build/Win64/EscapeTheBackroomsEditor/Development
 /Intermediate/Build/Win64/UE4/Development
 /Intermediate/Build/Win64/UE4Editor
+Intermediate/CachedAssetRegistry.bin
+/Saved/Config/CrashReportClient
+/Saved/Logs
