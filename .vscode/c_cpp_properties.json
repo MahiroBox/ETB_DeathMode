@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "EscapeTheBackroomsEditor Editor Win64 Development (EscapeTheBackrooms)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\Playeroth\\Documents\\EscapeTheBackrooms--Mods\\MainMod\\.vscode\\compileCommands_EscapeTheBackrooms.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\Playeroth\\Documents\\EscapeTheBackrooms--Mods\\MainMod\\.vscode\\compileCommands_Default.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

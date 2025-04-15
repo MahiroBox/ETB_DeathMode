@@ -68,8 +68,6 @@ Saved/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-/.vscode
-/Source
 /Platforms
 /modding_workspace
 /Intermediate/AssetRegistryCache
