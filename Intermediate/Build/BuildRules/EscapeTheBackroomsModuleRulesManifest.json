@@ -1,0 +1,13 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Playeroth\\Documents\\EscapeTheBackrooms--Mods\\MainMod\\Source\\EscapeTheBackrooms\\EscapeTheBackrooms.Build.cs",
+		"C:\\Users\\Playeroth\\Documents\\EscapeTheBackrooms--Mods\\MainMod\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\AdvancedSessions.Build.cs",
+		"C:\\Users\\Playeroth\\Documents\\EscapeTheBackrooms--Mods\\MainMod\\Plugins\\AdvancedSteamSessions\\Source\\AdvancedSteamSessions\\AdvancedSteamSessions.Build.cs",
+		"C:\\Users\\Playeroth\\Documents\\EscapeTheBackrooms--Mods\\MainMod\\Plugins\\BlueprintAssist\\Source\\BlueprintAssist\\BlueprintAssist.Build.cs",
+		"C:\\Users\\Playeroth\\Documents\\EscapeTheBackrooms--Mods\\MainMod\\Plugins\\NodeGraphAssistant\\Source\\NodeGraphAssistant.Build.cs",
+		"C:\\Users\\Playeroth\\Documents\\EscapeTheBackrooms--Mods\\MainMod\\Plugins\\SmoothSync\\Source\\SmoothSyncPlugin\\SmoothSyncPlugin.Build.cs",
+		"C:\\Users\\Playeroth\\Documents\\EscapeTheBackrooms--Mods\\MainMod\\Source\\EscapeTheBackrooms.Target.cs",
+		"C:\\Users\\Playeroth\\Documents\\EscapeTheBackrooms--Mods\\MainMod\\Source\\EscapeTheBackroomsEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

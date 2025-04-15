@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "EscapeTheBackrooms",
+			"Path": "C:\\Users\\Playeroth\\Documents\\EscapeTheBackrooms--Mods\\MainMod\\Source\\EscapeTheBackrooms.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "EscapeTheBackroomsEditor",
+			"Path": "C:\\Users\\Playeroth\\Documents\\EscapeTheBackrooms--Mods\\MainMod\\Source\\EscapeTheBackroomsEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
