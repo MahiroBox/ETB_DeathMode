@@ -74,6 +74,5 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 /.vscode
 /Source
-/Plugins
 /Platforms
 /modding_workspace
