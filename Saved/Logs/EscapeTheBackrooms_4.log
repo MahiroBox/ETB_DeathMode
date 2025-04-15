@@ -1,0 +1,647 @@
+﻿Log file open, 06/30/24 18:28:16
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: EscapeTheBackrooms
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 17 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.593587
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz, GPU: AMD Radeon RX 580 2048SP
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  /Game/_DefaultMap/Untitled -game -PIEVIACONSOLE -Multiprocess -server -log GameUserSettingsINI=C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/PIEGameUserSettings0.ini -MultiprocessSaveConfig -forcepassthrough -messaging -SessionName="Play in Standalone Game" -port=17777 -windowed
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2024.06.30-21.28.17:748][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2024.06.30-21.28.17:749][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2024.06.30-21.28.17:750][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Engine.ini]
+[2024.06.30-21.28.17:750][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2024.06.30-21.28.17:750][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2024.06.30-21.28.17:751][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Engine.ini]
+[2024.06.30-21.28.17:751][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Engine.ini]
+[2024.06.30-21.28.17:751][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2024.06.30-21.28.17:752][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2024.06.30-21.28.17:752][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2024.06.30-21.28.17:753][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2024.06.30-21.28.17:755][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2024.06.30-21.28.17:755][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2024.06.30-21.28.17:756][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2024.06.30-21.28.17:756][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2024.06.30-21.28.17:756][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2024.06.30-21.28.17:757][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2024.06.30-21.28.17:757][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2024.06.30-21.28.17:757][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2024.06.30-21.28.17:758][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2024.06.30-21.28.17:758][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2024.06.30-21.28.17:758][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Engine.ini]
+[2024.06.30-21.28.17:759][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2024.06.30-21.28.17:759][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2024.06.30-21.28.17:759][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2024.06.30-21.28.17:760][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2024.06.30-21.28.17:761][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2024.06.30-21.28.17:761][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2024.06.30-21.28.17:762][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2024.06.30-21.28.17:762][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2024.06.30-21.28.17:762][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2024.06.30-21.28.17:762][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2024.06.30-21.28.17:763][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2024.06.30-21.28.17:763][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2024.06.30-21.28.17:769][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2024.06.30-21.28.17:772][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2024.06.30-21.28.17:772][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Engine.ini]
+[2024.06.30-21.28.17:773][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Engine.ini]
+[2024.06.30-21.28.17:773][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Scalability.ini]
+[2024.06.30-21.28.17:773][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.06.30-21.28.17:773][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.06.30-21.28.17:774][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Scalability.ini]
+[2024.06.30-21.28.17:774][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.06.30-21.28.17:775][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Scalability.ini]
+[2024.06.30-21.28.17:775][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.06.30-21.28.17:775][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.06.30-21.28.17:775][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.06.30-21.28.17:776][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.06.30-21.28.17:776][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.06.30-21.28.17:776][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.06.30-21.28.17:777][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.06.30-21.28.17:777][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.06.30-21.28.17:777][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.06.30-21.28.17:778][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.06.30-21.28.17:778][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.06.30-21.28.17:778][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.06.30-21.28.17:779][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.06.30-21.28.17:779][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.06.30-21.28.17:779][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.06.30-21.28.17:780][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.06.30-21.28.17:780][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.06.30-21.28.17:780][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.06.30-21.28.17:781][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Scalability.ini]
+[2024.06.30-21.28.17:781][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.06.30-21.28.17:781][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.06.30-21.28.17:782][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.06.30-21.28.17:782][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.06.30-21.28.17:782][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.06.30-21.28.17:783][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.06.30-21.28.17:788][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.06.30-21.28.17:789][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.06.30-21.28.17:789][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.06.30-21.28.17:789][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.06.30-21.28.17:790][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.06.30-21.28.17:791][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.06.30-21.28.17:791][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.06.30-21.28.17:792][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.06.30-21.28.17:792][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.06.30-21.28.17:792][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.06.30-21.28.17:793][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.06.30-21.28.17:793][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.06.30-21.28.17:793][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.06.30-21.28.17:794][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.06.30-21.28.17:794][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.06.30-21.28.17:794][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.06.30-21.28.17:795][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.06.30-21.28.17:795][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.06.30-21.28.17:795][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.06.30-21.28.17:796][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.06.30-21.28.17:796][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.06.30-21.28.17:797][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.06.30-21.28.17:797][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.06.30-21.28.17:798][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.06.30-21.28.17:800][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Scalability.ini]
+[2024.06.30-21.28.17:801][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.06.30-21.28.17:802][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.06.30-21.28.17:802][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.06.30-21.28.17:802][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.06.30-21.28.17:803][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.06.30-21.28.17:803][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2024.06.30-21.28.17:803][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.06.30-21.28.17:803][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.06.30-21.28.17:804][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.06.30-21.28.17:804][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Scalability.ini]
+[2024.06.30-21.28.17:804][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.06.30-21.28.17:805][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.06.30-21.28.17:805][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.06.30-21.28.17:805][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.06.30-21.28.17:806][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.06.30-21.28.17:806][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.06.30-21.28.17:806][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.06.30-21.28.17:806][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.06.30-21.28.17:807][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2024.06.30-21.28.17:807][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.06.30-21.28.17:807][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.06.30-21.28.17:808][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.06.30-21.28.17:808][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2024.06.30-21.28.17:808][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2024.06.30-21.28.17:809][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.06.30-21.28.17:809][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.06.30-21.28.17:809][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.06.30-21.28.17:809][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2024.06.30-21.28.17:810][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.06.30-21.28.17:810][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.06.30-21.28.17:810][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.06.30-21.28.17:811][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2024.06.30-21.28.17:811][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.06.30-21.28.17:811][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2024.06.30-21.28.17:812][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.06.30-21.28.17:812][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.06.30-21.28.17:812][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.06.30-21.28.17:813][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2024.06.30-21.28.17:816][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Scalability.ini]
+[2024.06.30-21.28.17:818][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.06.30-21.28.17:819][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.06.30-21.28.17:819][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Scalability.ini]
+[2024.06.30-21.28.17:819][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.06.30-21.28.17:819][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.06.30-21.28.17:821][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.06.30-21.28.17:821][  0]LogInit: Selected Device Profile: [Windows]
+[2024.06.30-21.28.17:821][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2024.06.30-21.28.17:822][  0]LogHAL: Display: Platform has ~ 16 GB [17045581824 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.06.30-21.28.17:822][  0]LogInit: Going up to parent DeviceProfile []
+[2024.06.30-21.28.17:823][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Scalability.ini]
+[2024.06.30-21.28.17:823][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.06.30-21.28.17:823][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.06.30-21.28.17:823][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Scalability.ini]
+[2024.06.30-21.28.17:824][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.06.30-21.28.17:824][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Scalability.ini]
+[2024.06.30-21.28.17:825][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.06.30-21.28.17:825][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.06.30-21.28.17:825][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.06.30-21.28.17:826][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.06.30-21.28.17:826][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.06.30-21.28.17:826][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.06.30-21.28.17:827][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.06.30-21.28.17:827][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.06.30-21.28.17:828][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.06.30-21.28.17:828][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.06.30-21.28.17:828][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.06.30-21.28.17:829][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.06.30-21.28.17:832][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.06.30-21.28.17:833][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.06.30-21.28.17:833][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.06.30-21.28.17:833][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.06.30-21.28.17:833][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.06.30-21.28.17:834][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.06.30-21.28.17:835][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Scalability.ini]
+[2024.06.30-21.28.17:835][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.06.30-21.28.17:835][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.06.30-21.28.17:836][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.06.30-21.28.17:836][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.06.30-21.28.17:836][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.06.30-21.28.17:836][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.06.30-21.28.17:837][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.06.30-21.28.17:837][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.06.30-21.28.17:837][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.06.30-21.28.17:837][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.06.30-21.28.17:838][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.06.30-21.28.17:839][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.06.30-21.28.17:839][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.06.30-21.28.17:840][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.06.30-21.28.17:840][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.06.30-21.28.17:841][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.06.30-21.28.17:841][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.06.30-21.28.17:841][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.06.30-21.28.17:842][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.06.30-21.28.17:842][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.06.30-21.28.17:842][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.06.30-21.28.17:842][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.06.30-21.28.17:843][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.06.30-21.28.17:843][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.06.30-21.28.17:843][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.06.30-21.28.17:843][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.06.30-21.28.17:844][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.06.30-21.28.17:848][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.06.30-21.28.17:848][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.06.30-21.28.17:848][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.06.30-21.28.17:849][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Scalability.ini]
+[2024.06.30-21.28.17:849][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.06.30-21.28.17:849][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.06.30-21.28.17:850][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.06.30-21.28.17:850][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.06.30-21.28.17:852][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.06.30-21.28.17:852][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2024.06.30-21.28.17:853][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.06.30-21.28.17:853][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.06.30-21.28.17:853][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.06.30-21.28.17:854][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Scalability.ini]
+[2024.06.30-21.28.17:854][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.06.30-21.28.17:854][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.06.30-21.28.17:854][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.06.30-21.28.17:855][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.06.30-21.28.17:855][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.06.30-21.28.17:855][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.06.30-21.28.17:856][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.06.30-21.28.17:856][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.06.30-21.28.17:856][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2024.06.30-21.28.17:857][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.06.30-21.28.17:857][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.06.30-21.28.17:858][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.06.30-21.28.17:858][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2024.06.30-21.28.17:858][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2024.06.30-21.28.17:858][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.06.30-21.28.17:859][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.06.30-21.28.17:859][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.06.30-21.28.17:859][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2024.06.30-21.28.17:860][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.06.30-21.28.17:863][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.06.30-21.28.17:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.06.30-21.28.17:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2024.06.30-21.28.17:864][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.06.30-21.28.17:865][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2024.06.30-21.28.17:865][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.06.30-21.28.17:865][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.06.30-21.28.17:866][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.06.30-21.28.17:866][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2024.06.30-21.28.17:866][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Scalability.ini]
+[2024.06.30-21.28.17:868][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.06.30-21.28.17:868][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.06.30-21.28.17:869][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Scalability.ini]
+[2024.06.30-21.28.17:869][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.06.30-21.28.17:870][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.06.30-21.28.17:870][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.06.30-21.28.17:870][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2024.06.30-21.28.17:871][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2024.06.30-21.28.17:871][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2024.06.30-21.28.17:871][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2024.06.30-21.28.17:872][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Engine.ini]
+[2024.06.30-21.28.17:872][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Config/Windows/Editor.ini]
+[2024.06.30-21.28.17:872][  0]LogInit: Computer: DESKTOP-D2RTK69
+[2024.06.30-21.28.17:872][  0]LogInit: User: Playeroth
+[2024.06.30-21.28.17:873][  0]LogInit: CPU Page size=4096, Cores=6
+[2024.06.30-21.28.17:873][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.06.30-21.28.17:873][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2024.06.30-21.28.17:873][  0]LogMemory: Platform Memory Stats for Windows
+[2024.06.30-21.28.17:874][  0]LogMemory: Process Physical Memory: 138.49 MB used, 138.49 MB peak
+[2024.06.30-21.28.17:874][  0]LogMemory: Process Virtual Memory: 117.34 MB used, 117.34 MB peak
+[2024.06.30-21.28.17:874][  0]LogMemory: Physical Memory: 13380.62 MB used,  2875.31 MB free, 16255.93 MB total
+[2024.06.30-21.28.17:875][  0]LogMemory: Virtual Memory: 134191064.00 MB used,  26663.92 MB free, 134217728.00 MB total
+[2024.06.30-21.28.17:880][  0]LogWindows: WindowsPlatformFeatures disabled or dedicated server build
+[2024.06.30-21.28.17:892][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2024.06.30-21.28.17:893][  0]LogInit: Using OS detected language (pt-BR).
+[2024.06.30-21.28.17:893][  0]LogInit: Using OS detected locale (pt-BR).
+[2024.06.30-21.28.17:934][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/pt/Editor.locres' could not be opened for reading!
+[2024.06.30-21.28.17:934][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/pt/EditorTutorials.locres' could not be opened for reading!
+[2024.06.30-21.28.17:936][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/pt/Keywords.locres' could not be opened for reading!
+[2024.06.30-21.28.17:936][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/pt/Category.locres' could not be opened for reading!
+[2024.06.30-21.28.17:936][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/pt/ToolTips.locres' could not be opened for reading!
+[2024.06.30-21.28.17:936][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/pt/PropertyNames.locres' could not be opened for reading!
+[2024.06.30-21.28.17:937][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/pt/Engine.locres' could not be opened for reading!
+[2024.06.30-21.28.17:937][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/pt/OnlineSubsystem.locres' could not be opened for reading!
+[2024.06.30-21.28.17:938][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/pt/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2024.06.30-21.28.17:938][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/pt/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2024.06.30-21.28.17:939][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/pt/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2024.06.30-21.28.18:452][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2024.06.30-21.28.18:455][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2024.06.30-21.28.18:459][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2024.06.30-21.28.18:463][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2024.06.30-21.28.18:463][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2024.06.30-21.28.18:468][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.06.30-21.28.18:485][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2024.06.30-21.28.18:501][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2024.06.30-21.28.18:501][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Intermediate/Shaders/WorkingDirectory/17028/).
+[2024.06.30-21.28.18:501][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Playeroth/AppData/Local/Temp/UnrealShaderWorkingDir/B07C18D346F61932036C939998AF2C3A/'.
+[2024.06.30-21.28.18:502][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2024.06.30-21.28.18:502][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2024.06.30-21.28.18:503][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2024.06.30-21.28.19:265][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2024.06.30-21.28.19:354][  0]LogDerivedDataCache: Loaded boot cache 0.09s 94MB C:/Users/Playeroth/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2024.06.30-21.28.19:354][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Playeroth/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2024.06.30-21.28.19:355][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.06.30-21.28.19:355][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2024.06.30-21.28.19:356][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.06.30-21.28.19:356][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2024.06.30-21.28.19:380][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2024.06.30-21.28.19:380][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.06.30-21.28.19:381][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2024.06.30-21.28.19:393][  0]LogDerivedDataCache: Speed tests for C:/Users/Playeroth/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2024.06.30-21.28.19:394][  0]LogDerivedDataCache: Display: Performance to C:/Users/Playeroth/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1004.31MBs, RandomWriteSpeed=86.15MBs. Assigned SpeedClass 'Local'
+[2024.06.30-21.28.19:397][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Playeroth/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.06.30-21.28.19:398][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2024.06.30-21.28.19:398][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2024.06.30-21.28.19:405][  0]LogInit: Using OS detected language (pt-BR).
+[2024.06.30-21.28.19:405][  0]LogInit: Using OS detected locale (pt-BR).
+[2024.06.30-21.28.19:406][  0]LogTextLocalizationManager: No localization for 'pt-BR' exists, so 'en' will be used for the language.
+[2024.06.30-21.28.19:406][  0]LogTextLocalizationManager: No localization for 'pt-BR' exists, so 'en' will be used for the locale.
+[2024.06.30-21.28.19:412][  0]LogAssetRegistry: FAssetRegistry took 0.0037 seconds to start up
+[2024.06.30-21.28.19:707][  0]LogTextLocalizationManager: Compacting localization data took   0.01ms
+[2024.06.30-21.28.19:707][  0]LogCollisionProfile: Warning: ProfileRedirect (EntitiType : EntityType) - New Name ('EntityType') isn't found 
+[2024.06.30-21.28.19:713][  0]LogPackageLocalizationCache: Processed 27 localized package path(s) for 1 prioritized culture(s) in 0.003007 seconds
+[2024.06.30-21.28.19:845][  0]LogInit: Selected Device Profile: [Windows]
+[2024.06.30-21.28.19:845][  0]LogInit: Active device profile: [000002A00F725A00][000002A00D89B0C0 49] Windows
+[2024.06.30-21.28.19:846][  0]LogInit: Profiles: [000002A00F725A00][000002A00D89B0C0 49] Windows, [000002A00F717200][000002A00D8A9380 49] WindowsNoEditor, [000002A00F727800][000002A00D8AD640 49] WindowsServer, [000002A00F714E00][000002A00D8B1900 49] WindowsClient, [000002A00F724F00][000002A00D8B5BC0 49] IOS, [000002A00F715700][000002A00D89E2C0 49] iPadAir, [000002A00F725E00][000002A00D8B8540 49] iPadAir2, [000002A00F6C1200][000002A00A9F0A80 49] IPadPro, [000002A00F6C1300][000002A00D8C0AC0 49] iPadAir3, [000002A00F717000][000002A00A9E8D80 49] iPadAir4, [000002A00F6C3C00][000002A00A9E5040 49] iPadMini2, [000002A00F715B00][000002A00A9ED300 49] iPadMini3, [000002A00F6C2600][000002A00A9FB5C0 49] iPadMini4, [000002A00F715E00][000002A00A9FF880 49] iPadMini5, [000002A00F6CCC00][000002A00AA12240 49] iPhone6, [000002A00F6CCD00][000002A00AA02280 49] iPodTouch6, [000002A00F725600][000002A00AA16740 49] iPhone7, [000002A00F725700][000002A00D8BC780 49] iPodTouch7, [000002A00F6CC400][000002A00AA0EA40 49] iPhone5S, [000002A00F6C0600][000002A00AA06D00 49] iPhone6Plus, [000002A00F6CF700][000002A00AA1AFC0 49] iPhone6S, [000002A00F6C2100][000002A00AA1F280 49] iPhone6SPlus, [000002A00F6CE900][000002A00AA23540 49] iPhone7Plus, [000002A00F725200][000002A00AA27800 49] iPhoneSE, [000002A00F6CD300][000002A00AA2BAC0 49] iPhone8, [000002A00F727F00][000002A00AA2E200 49] iPhone8Plus, [000002A00F6CFB00][000002A00AA324C0 49] iPhoneX, [000002A00F727100][000002A00AA0A740 49] iPhoneXS, [000002A00F6CFC00][000002A00AA369C0 49] iPhoneXSMax, [000002A00F727600][000002A00AA3EC80 49] iPhoneXR, [000002A00F6CE600][000002A00AA42F40 49] iPhone11, [000002A00F726500][000002A00AA47200 49] iPhone11Pro, [000002A00F6CDF00][000002A00AA4B4C0 49] iPhone11ProMax, [000002A00F726F00][000002A00AA4F780 49] iPhoneSE2, [000002A00F6CD800][000002A00AA53A40 49] iPhone12Mini, [000002A00F727500][000002A00AA56180 49] iPhone12, [000002A00F6CC700][000002A00AA5A440 49] iPhone12Pro, [000002A00F727700][000002A00AA5E700 49] iPhone12ProMax, [000002A00F6CE300][000002A00AA3A980 49] iPadPro105, [000002A00F725800][000002A00AA62C00 49] iPadPro129, [000002A00F6CC800][000002A00B670EC0 49] iPadPro97, [000002A00F724C00][000002A00B675180 49] iPadPro2_129, [000002A00F6CE000][000002A00B679440 49] iPad5, [000002A00F726400][000002A00B67D700 49] iPad6, [000002A00F6CFD00][000002A00B6819C0 49] iPad7, [000002A00F724300][000002A00B684100 49] iPad8, [000002A00F6CCE00][000002A00B6883C0 49] iPadPro11, [000002A00F725100][000002A00B68C680 49] iPadPro2_11, [000002A00F6CEE00][000002A00B690940 49] iPadPro3_129, [000002A00F724800][000002A00AA66BC0 49] iPadPro4_129, [000002A00F6CE400][000002A00B694E40 49] AppleTV, [000002A00F726000][000002A00B69D100 49] AppleTV4K, [000002A00F6CD700][000002A00B6A13C0 49] TVOS, [000002A00F724500][000002A00B6A5680 49] Mac, [000002A00F6CF900][000002A00B6A9940 49] MacClient, [000002A00F726A00][000002A00B6ADC00 49] MacNoEditor, [000002A00F6CEC00][000002A00B6B0340 49] MacServer, [000002A00F725D00][000002A00B6B4600 49] Linux, [000002A00F6CF600][000002A00B6B88C0 49] LinuxAArch64, [000002A00F725B00][000002A00B6BCB80 49] LinuxNoEditor, [000002A00F6CC900][000002A00B698E00 49] LinuxAArch64NoEditor, [000002A00F726900][000002A00B6C50C0 49] LinuxClient, [000002A00F6CE800][000002A00B6C9380 49] LinuxAArch64Client, [000002A00F726100][000002A00B6CD640 49] LinuxServer, [000002A00F6CED00][000002A00B6D1900 49] LinuxAArch64Server, [000002A00F727A00][000002A00B6D5BC0 49] Android, [000002A00F6CEA00][000002A00B6D8300 49] Android_Low, [000002A00F727B00][000002A00B6DC5C0 49] Android_Mid, [000002A00F6CCF00][000002A00B6E0880 49] Android_High, [000002A00F724200][000002A00B6E4B40 49] Android_Default, [000002A00F6CF800][000002A00B6C0DC0 49] Android_Adreno4xx, [000002A00F724400][000002A00B6E9040 49] Android_Adreno5xx_Low, [000002A00F6CC200][000002A00B6F1300 49] Android_Adreno5xx, [000002A00F726C00][000002A00B6F55C0 49] Android_Adreno6xx, [000002A00F6CD200][000002A00B6F9880 49] Android_Adreno6xx_Vulkan, [000002A00F727200][000002A00B6FDB40 49] Android_Mali_T6xx, [000002A00F6CE700][000002A00B700280 49] Android_Mali_T7xx, [000002A00F727E00][000002A00B704540 49] Android_Mali_T8xx, [000002A00F6CE100][000002A00B708800 49] Android_Mali_G71, [000002A00F724A00][000002A00B70CAC0 49] Android_Mali_G72, [000002A00F6CD900][000002A00B710D80 49] Android_Mali_G72_Vulkan, [000002A00F726D00][000002A00B6ED000 49] Android_Mali_G76, [000002A00F6CF300][000002A00B715280 49] Android_Mali_G76_Vulkan, [000002A00F6C2500][000002A00B71D540 49] Android_Mali_G77, [000002A00F717400][000002A00B721800 49] Android_Mali_G77_Vulkan, [000002A00F6C0D00][000002A00B725AC0 49] Android_Mali_G78, [000002A00F717D00][000002A00B728200 49] Android_Mali_G78_Vulkan, [000002A00F6C2F00][000002A00B72C4C0 49] Android_Mali_G710, [000002A00F716500][000002A00B730780 49] Android_Mali_G710_Vulkan, [000002A00F6C2900][000002A00B734A40 49] Android_Vulkan_SM5, [000002A00F716A00][000002A00B738D00 49] Android_PowerVR_G6xxx, [000002A00F6C3600][000002A00B73CFC0 49] Android_PowerVR_GT7xxx, [000002A00F717C00][000002A00B719240 49] Android_PowerVR_GE8xxx, [000002A00F6C1800][000002A00B7414C0 49] Android_PowerVR_GM9xxx, [000002A00F714500][000002A00B749780 49] Android_PowerVR_GM9xxx_Vulkan, [000002A00F6C0700][000002A00B74DA40 49] Android_TegraK1, [000002A00F714300][000002A00B750180 49] Android_Unknown_Vulkan, [000002A00F6C3400][000002A00B754440 49] Lumin, [000002A00F715A00][000002A00B758700 49] Lumin_Desktop, [000002A00F6C2300][000002A00B75C9C0 49] HoloLens, 
+[2024.06.30-21.28.19:902][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.06.30-21.28.19:902][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2024.06.30-21.28.19:903][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.06.30-21.28.19:903][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2024.06.30-21.28.19:904][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2024.06.30-21.28.19:922][  0]LogNetVersion: EscapeTheBackrooms 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3701509013)
+[2024.06.30-21.28.20:066][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2024.06.30-21.28.20:088][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2024.06.30-21.28.20:344][  0]LogPython: Using Python 3.7.7
+[2024.06.30-21.28.21:001][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 509019E048B48843C19CBD9E1260FA35 | Instance: 164FC8DD40F8346FBE23CA91A3D8FF7E (DESKTOP-D2RTK69-17028).
+[2024.06.30-21.28.21:019][  0]LogCollectionManager: Loaded 0 collections in 0.002210 seconds
+[2024.06.30-21.28.21:021][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Saved/Collections/' took 0.00s
+[2024.06.30-21.28.21:022][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Content/Developers/Playeroth/Collections/' took 0.00s
+[2024.06.30-21.28.21:023][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/MainMod/Content/Collections/' took 0.00s
+[2024.06.30-21.28.21:024][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2024.06.30-21.28.21:124][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.06.30-21.28.21:128][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.06.30-21.28.21:254][  0]SourceControl: Source control is disabled
+[2024.06.30-21.28.21:255][  0]SourceControl: Source control is disabled
+[2024.06.30-21.28.21:260][  0]SourceControl: Source control is disabled
+[2024.06.30-21.28.21:270][  0]LogUProjectInfo: Found projects:
+[2024.06.30-21.28.21:408][  0]LogOpenImageDenoise: OIDN starting up
+[2024.06.30-21.28.21:467][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.06.30-21.28.21:501][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.06.30-21.28.21:501][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.06.30-21.28.21:602][  0]LogOcInput: OculusInput pre-init called
+[2024.06.30-21.28.21:614][  0]LogUObjectArray: 21890 objects as part of root set at end of initial load.
+[2024.06.30-21.28.21:614][  0]LogUObjectAllocator: 5895744 out of 0 bytes used by permanent object pool.
+[2024.06.30-21.28.21:615][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.06.30-21.28.21:668][  0]LogEngine: Initializing Engine...
+[2024.06.30-21.28.21:670][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2024.06.30-21.28.21:688][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.06.30-21.28.21:688][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.06.30-21.28.21:694][  0]LogInit: Texture streaming: Disabled
+[2024.06.30-21.28.21:749][  0]LogInit: Display: Game Engine Initialized.
+[2024.06.30-21.28.21:749][  0]LogNiagaraEditor: GEditor isn't valid! Particle reset commands will not work for Niagara components!
+[2024.06.30-21.28.21:840][  0]LogInit: Display: Starting Game.
+[2024.06.30-21.28.21:840][  0]LogNet: Browse: /Game/_DefaultMap/Untitled?Name=Player
+[2024.06.30-21.28.21:841][  0]LogLoad: LoadMap: /Game/_DefaultMap/Untitled?Name=Player
+[2024.06.30-21.28.21:841][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2024.06.30-21.28.21:846][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.06.30-21.28.21:858][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.06.30-21.28.21:970][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.06.30-21.28.21:989][  0]LogLoad: Game class is 'Gamemode_Main_C'
+[2024.06.30-21.28.21:990][  0]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2024.06.30-21.28.21:991][  0]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2024.06.30-21.28.21:992][  0]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2024.06.30-21.28.21:992][  0]LogNet: Created socket for bind address: 0.0.0.0 on port 17777
+[2024.06.30-21.28.21:993][  0]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.06.30-21.28.21:993][  0]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2024.06.30-21.28.21:996][  0]LogWorld: Bringing World /Game/_DefaultMap/Untitled.Untitled up for play (max tick rate 30) at 2024.06.30-18.28.21
+[2024.06.30-21.28.22:000][  0]LogWorld: Bringing up level for play took: 0.006342
+[2024.06.30-21.28.22:001][  0]LogLoad: Took 0.159981 seconds to LoadMap(/Game/_DefaultMap/Untitled)
+[2024.06.30-21.28.22:015][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2024.06.30-21.28.22:015][  0]LogLoad: (Engine Initialization) Total time: 7.35 seconds
+[2024.06.30-21.28.22:016][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.06.30-21.28.23:047][ 30]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57601
+[2024.06.30-21.28.23:047][ 30]LogHandshake: SendConnectChallenge. Timestamp: 1.027439, Cookie: 009150097197147202173191224037226169007233215100116129029088
+[2024.06.30-21.28.23:378][ 40]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57601
+[2024.06.30-21.28.23:378][ 40]LogHandshake: SendChallengeAck. InCookie: 009150097197147202173191224037226169007233215100116129029088
+[2024.06.30-21.28.23:381][ 40]LogNet: Server accepting post-challenge connection from: 127.0.0.1:57601
+[2024.06.30-21.28.23:382][ 40]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.06.30-21.28.23:382][ 40]LogNet: NotifyAcceptedConnection: Name: Untitled, TimeStamp: 06/30/24 18:28:23, [UNetConnection] RemoteAddr: 127.0.0.1:57601, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.06.30-21.28.23:382][ 40]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:57601, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.06.30-21.28.23:412][ 41]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:61294
+[2024.06.30-21.28.23:412][ 41]LogHandshake: SendConnectChallenge. Timestamp: 1.392466, Cookie: 006122235195230048163243062100159044206108031173170203189021
+[2024.06.30-21.28.23:446][ 42]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:61294
+[2024.06.30-21.28.23:446][ 42]LogHandshake: SendChallengeAck. InCookie: 006122235195230048163243062100159044206108031173170203189021
+[2024.06.30-21.28.23:447][ 42]LogNet: Server accepting post-challenge connection from: 127.0.0.1:61294
+[2024.06.30-21.28.23:448][ 42]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.06.30-21.28.23:448][ 42]LogNet: NotifyAcceptedConnection: Name: Untitled, TimeStamp: 06/30/24 18:28:23, [UNetConnection] RemoteAddr: 127.0.0.1:61294, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.06.30-21.28.23:448][ 42]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:61294, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.06.30-21.28.23:479][ 43]LogNet: NotifyAcceptingChannel Control 0 server World /Game/_DefaultMap/Untitled.Untitled: Accepted
+[2024.06.30-21.28.23:479][ 43]LogNet: Remote platform little endian=1
+[2024.06.30-21.28.23:480][ 43]LogNet: This platform little endian=1
+[2024.06.30-21.28.23:481][ 43]LogNetVersion: EscapeTheBackrooms 1.0.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2677885195)
+[2024.06.30-21.28.23:481][ 43]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:61295
+[2024.06.30-21.28.23:481][ 43]LogHandshake: SendConnectChallenge. Timestamp: 1.459448, Cookie: 232043066148090145006085098113105191003206145118029235030187
+[2024.06.30-21.28.23:512][ 44]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:61295
+[2024.06.30-21.28.23:512][ 44]LogHandshake: SendChallengeAck. InCookie: 232043066148090145006085098113105191003206145118029235030187
+[2024.06.30-21.28.23:512][ 44]LogNet: Server accepting post-challenge connection from: 127.0.0.1:61295
+[2024.06.30-21.28.23:513][ 44]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2024.06.30-21.28.23:513][ 44]LogNet: NotifyAcceptedConnection: Name: Untitled, TimeStamp: 06/30/24 18:28:23, [UNetConnection] RemoteAddr: 127.0.0.1:61295, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.06.30-21.28.23:514][ 44]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:61295, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2024.06.30-21.28.23:514][ 44]LogNet: Login request: ?Name=DESKTOP-D2RTK69-01C74B314FB3BC7B3EB3908F5121CE83 userId: NULL:DESKTOP-D2RTK69-01C74B314FB3BC7B3EB3908F5121CE83 platform: NULL
+[2024.06.30-21.28.23:515][ 44]LogNet: NotifyAcceptingChannel Control 0 server World /Game/_DefaultMap/Untitled.Untitled: Accepted
+[2024.06.30-21.28.23:515][ 44]LogNet: Remote platform little endian=1
+[2024.06.30-21.28.23:516][ 44]LogNet: This platform little endian=1
+[2024.06.30-21.28.23:546][ 45]LogNet: Login request: ?Name=DESKTOP-D2RTK69-60081A8941596B71BA6C9FA8B37FC7D8 userId: NULL:DESKTOP-D2RTK69-60081A8941596B71BA6C9FA8B37FC7D8 platform: NULL
+[2024.06.30-21.28.23:645][ 48]LogNet: Client netspeed is 100000
+[2024.06.30-21.28.23:645][ 48]LogNet: Join request: /Engine/Maps/Entry?Name=DESKTOP-D2RTK69-01C74B314FB3BC7B3EB3908F5121CE83?SplitscreenCount=1
+[2024.06.30-21.28.23:647][ 48]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2024.06.30-21.28.23:650][ 48]LogNet: Join succeeded: DESKTOP-D2RTK69-01C7
+[2024.06.30-21.28.23:679][ 49]LogNet: Client netspeed is 100000
+[2024.06.30-21.28.23:680][ 49]LogNet: Join request: /Engine/Maps/Entry?Name=DESKTOP-D2RTK69-60081A8941596B71BA6C9FA8B37FC7D8?SplitscreenCount=1
+[2024.06.30-21.28.23:682][ 49]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2024.06.30-21.28.23:684][ 49]LogNet: Join succeeded: DESKTOP-D2RTK69-6008
+[2024.06.30-21.28.23:713][ 50]LogNet: NotifyAcceptingChannel Control 0 server World /Game/_DefaultMap/Untitled.Untitled: Accepted
+[2024.06.30-21.28.23:713][ 50]LogNet: Remote platform little endian=1
+[2024.06.30-21.28.23:714][ 50]LogNet: This platform little endian=1
+[2024.06.30-21.28.24:080][ 61]LogNet: Login request: ?Name=DESKTOP-D2RTK69-DCF26C8D4D37AF8622F769891F962760 userId: NULL:DESKTOP-D2RTK69-DCF26C8D4D37AF8622F769891F962760 platform: NULL
+[2024.06.30-21.28.24:414][ 71]LogNet: Client netspeed is 100000
+[2024.06.30-21.28.24:481][ 73]LogNet: Join request: /Engine/Maps/Entry?Name=DESKTOP-D2RTK69-DCF26C8D4D37AF8622F769891F962760?SplitscreenCount=1
+[2024.06.30-21.28.24:482][ 73]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2024.06.30-21.28.24:484][ 73]LogNet: Join succeeded: DESKTOP-D2RTK69-DCF2

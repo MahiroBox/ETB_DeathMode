@@ -1,0 +1,345 @@
+﻿Log file open, 04/15/25 17:23:43
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: EscapeTheBackrooms
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.242087
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamShared
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin AdvancedSessions
+LogPluginManager: Mounting plugin AdvancedSteamSessions
+LogPluginManager: Mounting plugin BlueprintAssist
+LogPluginManager: Mounting plugin NodeGraphAssistant
+LogInit: Warning: Incompatible or missing module: AdvancedSessions
+LogInit: Warning: Incompatible or missing module: AdvancedSteamSessions
+LogInit: Warning: Incompatible or missing module: BlueprintAssist
+LogInit: Warning: Incompatible or missing module: NodeGraphAssistant
+Running C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe Development Win64 -Project="C:/Users/Playeroth/Documents/EscapeTheBackrooms--Mods/ETBModTemplate - Copia (2)/EscapeTheBackrooms.uproject" -TargetType=Editor -Progress -NoEngineChanges -NoHotReloadFromIDE
+Creating makefile for UE4Editor (no existing makefile)
+one or more engine cpp files not found.
+will use pre-copied source files inside plugin source folder.
+turn on "download source code" option when installing engine if problem occured.
+one or more engine cpp files not found.
+will use pre-copied source files inside plugin source folder.
+turn on "download source code" option when installing engine if problem occured.
+@progress push 5%
+Parsing headers for UE4Editor
+  Running UnrealHeaderTool "C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\ETBModTemplate - Copia (2)\EscapeTheBackrooms.uproject" "C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\ETBModTemplate - Copia (2)\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Playeroth\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+LogInit: Display: Loading text-based GConfig....
+Reflection code generated for UE4Editor in 6,1081597 seconds
+@progress pop
+Building UE4Editor...
+Using Visual Studio 2022 14.43.34809 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808) and Windows 10.0.26100.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+Building 68 actions with 12 processes...
+  @progress 'Compiling C++ source code...' 0%
+  @progress 'Compiling C++ source code...' 1%
+  [1/68] Default.rc2
+  @progress 'Compiling C++ source code...' 3%
+  [2/68] Default.rc2
+  @progress 'Compiling C++ source code...' 4%
+  [3/68] Default.rc2
+  @progress 'Compiling C++ source code...' 6%
+  [4/68] Default.rc2
+  @progress 'Compiling C++ source code...' 7%
+  [5/68] SharedPCH.UnrealEd.ShadowErrors.cpp
+  Detected compiler newer than Visual Studio 2019, please update min version checking in WindowsPlatformCompilerSetup.h
+  @progress 'Compiling C++ source code...' 9%
+  [6/68] BlueprintAssistDelayedDelegate.cpp
+  @progress 'Compiling C++ source code...' 10%
+  [7/68] BlueprintAssist.init.gen.cpp
+  @progress 'Compiling C++ source code...' 12%
+  [8/68] BABlueprintHandlerObject.gen.cpp
+  @progress 'Compiling C++ source code...' 13%
+  [9/68] SharedPCH.Engine.ShadowErrors.cpp
+  Detected compiler newer than Visual Studio 2019, please update min version checking in WindowsPlatformCompilerSetup.h
+  @progress 'Compiling C++ source code...' 15%
+  [10/68] BlueprintAssistSettings.gen.cpp
+  @progress 'Compiling C++ source code...' 16%
+  [11/68] BARootObject.gen.cpp
+  @progress 'Compiling C++ source code...' 18%
+  [12/68] Module.NodeGraphAssistant.gen.cpp
+  @progress 'Compiling C++ source code...' 19%
+  [13/68] Module.NodeGraphAssistant.cpp
+  C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\ETBModTemplate - Copia (2)\Plugins\NodeGraphAssistant\Source\Private\ConnectionDrawingPolicy\../EngineCppFiles/AnimGraphConnectionDrawingPolicy.cpp(13): fatal error C1083: Cannot open include file: 'AnimGraphAttributes.h': No such file or directory
+  @progress 'Compiling C++ source code...' 21%
+  [14/68] KnotTrack.cpp
+  @progress 'Compiling C++ source code...' 22%
+  [15/68] BlueprintAssistTabHandler.cpp
+  @progress 'Compiling C++ source code...' 24%
+  [16/68] BlueprintAssistToolbar.cpp
+  @progress 'Compiling C++ source code...' 25%
+  [17/68] BlueprintAssistSizeCache.gen.cpp
+  @progress 'Compiling C++ source code...' 26%
+  [18/68] BlueprintAssistModule.cpp
+  @progress 'Compiling C++ source code...' 28%
+  [19/68] EdGraphFormatter.cpp
+  @progress 'Compiling C++ source code...' 29%
+  [20/68] EditDetailsMenu.cpp
+  @progress 'Compiling C++ source code...' 31%
+  [21/68] BlueprintAssistCommands.cpp
+  @progress 'Compiling C++ source code...' 32%
+  [22/68] FocusSearchBoxMenu.cpp
+  @progress 'Compiling C++ source code...' 34%
+  [23/68] BlueprintAssistWorkflowModeMenu.cpp
+  @progress 'Compiling C++ source code...' 35%
+  [24/68] BlueprintAssistGraphPanelNodeFactory.cpp
+  @progress 'Compiling C++ source code...' 37%
+  [25/68] BlueprintAssistCommentHandler.cpp
+  @progress 'Compiling C++ source code...' 38%
+  [26/68] BlueprintAssistSettings.cpp
+  @progress 'Compiling C++ source code...' 40%
+  [27/68] Module.AdvancedSteamSessions.gen.cpp
+  @progress 'Compiling C++ source code...' 41%
+  [28/68] Module.AdvancedSteamSessions.cpp
+  @progress 'Compiling C++ source code...' 43%
+  [29/68] Module.AdvancedSessions.gen.2_of_3.cpp
+  @progress 'Compiling C++ source code...' 44%
+  [30/68] Module.AdvancedSessions.gen.1_of_3.cpp
+  @progress 'Compiling C++ source code...' 46%
+  [31/68] BlueprintAssistGlobals.cpp
+  @progress 'Compiling C++ source code...' 47%
+  [32/68] Module.AdvancedSessions.cpp
+  @progress 'Compiling C++ source code...' 49%
+  [33/68] BlueprintAssistGraphCommands.cpp
+  @progress 'Compiling C++ source code...' 50%
+  [34/68] BlueprintAssistUtils.cpp
+  @progress 'Compiling C++ source code...' 51%
+  [35/68] BlueprintAssistKnotNode.cpp
+  @progress 'Compiling C++ source code...' 53%
+  [36/68] KnotTrackCreator.cpp
+  @progress 'Compiling C++ source code...' 54%
+  [37/68] VariableSelectorMenu.cpp
+  @progress 'Compiling C++ source code...' 56%
+  [38/68] BARootObject.cpp
+  @progress 'Compiling C++ source code...' 57%
+  [39/68] EdGraphParameterFormatter.cpp
+  @progress 'Compiling C++ source code...' 59%
+  [40/68] BlueprintAssistGraphExtender.cpp
+  @progress 'Compiling C++ source code...' 60%
+  [41/68] BABlueprintHandlerObject.cpp
+  @progress 'Compiling C++ source code...' 62%
+  [42/68] GraphFormatterTypes.cpp
+  @progress 'Compiling C++ source code...' 63%
+  [43/68] BlueprintAssistTabSwitcher.cpp
+  @progress 'Compiling C++ source code...' 65%
+  [44/68] OpenWindowMenu.cpp
+  @progress 'Compiling C++ source code...' 66%
+  [45/68] SimpleFormatter.cpp
+  @progress 'Compiling C++ source code...' 68%
+  [46/68] BAAssetEditorHandlerObject.cpp
+  @progress 'Compiling C++ source code...' 69%
+  [47/68] UE4Editor-AdvancedSteamSessions.lib
+     Creating library C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\ETBModTemplate - Copia (2)\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\UE4Editor-AdvancedSteamSessions.lib and object C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\ETBModTemplate - Copia (2)\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\UE4Editor-AdvancedSteamSessions.exp
+  @progress 'Compiling C++ source code...' 71%
+  [48/68] BlueprintAssistNodeSizeChangeData.cpp
+  @progress 'Compiling C++ source code...' 72%
+  [49/68] BAAssetEditorHandlerObject.gen.cpp
+  @progress 'Compiling C++ source code...' 74%
+  [50/68] BAFormatterUtils.cpp
+  @progress 'Compiling C++ source code...' 75%
+  [51/68] BehaviorTreeGraphFormatter.cpp
+  @progress 'Compiling C++ source code...' 76%
+  [52/68] GoToSymbolMenu.cpp
+  @progress 'Compiling C++ source code...' 78%
+  [53/68] BlueprintAssistInputProcessor.cpp
+  @progress 'Compiling C++ source code...' 79%
+  [54/68] LinkPinMenu.cpp
+  @progress 'Compiling C++ source code...' 81%
+  [55/68] BlueprintAssistHotkeyMenu.cpp
+  @progress 'Compiling C++ source code...' 82%
+  [56/68] BlueprintAssistGraphHandler.cpp
+  @progress 'Compiling C++ source code...' 84%
+  [57/68] BlueprintAssistSizeCache.cpp
+  @progress 'Compiling C++ source code...' 85%
+  [58/68] BlueprintAssistCreateAssetMenu.cpp
+  @progress 'Compiling C++ source code...' 87%
+  [59/68] AddSymbolMenu.cpp
+  @progress 'Compiling C++ source code...' 88%
+  [60/68] Module.AdvancedSessions.gen.3_of_3.cpp
+  @progress 'Compiling C++ source code...' 90%
+  [61/68] UE4Editor-BlueprintAssist.lib
+     Creating library C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\ETBModTemplate - Copia (2)\Plugins\BlueprintAssist\Intermediate\Build\Win64\UE4Editor\Development\BlueprintAssist\UE4Editor-BlueprintAssist.lib and object C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\ETBModTemplate - Copia (2)\Plugins\BlueprintAssist\Intermediate\Build\Win64\UE4Editor\Development\BlueprintAssist\UE4Editor-BlueprintAssist.exp
+  @progress 'Compiling C++ source code...' 91%
+  [62/68] UE4Editor-AdvancedSessions.lib
+     Creating library C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\ETBModTemplate - Copia (2)\Plugins\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\UE4Editor-AdvancedSessions.lib and object C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\ETBModTemplate - Copia (2)\Plugins\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\UE4Editor-AdvancedSessions.exp
+  @progress 'Compiling C++ source code...' 93%
+  [63/68] UE4Editor-AdvancedSessions.dll
+     Creating library C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\ETBModTemplate - Copia (2)\Plugins\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\UE4Editor-AdvancedSessions.suppressed.lib and object C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\ETBModTemplate - Copia (2)\Plugins\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\UE4Editor-AdvancedSessions.suppressed.exp
+  @progress 'Compiling C++ source code...' 94%
+  [64/68] UE4Editor-AdvancedSteamSessions.dll
+     Creating library C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\ETBModTemplate - Copia (2)\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\UE4Editor-AdvancedSteamSessions.suppressed.lib and object C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\ETBModTemplate - Copia (2)\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\UE4Editor-AdvancedSteamSessions.suppressed.exp
+  @progress 'Compiling C++ source code...' 96%
+  [65/68] UE4Editor-BlueprintAssist.dll
+     Creating library C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\ETBModTemplate - Copia (2)\Plugins\BlueprintAssist\Intermediate\Build\Win64\UE4Editor\Development\BlueprintAssist\UE4Editor-BlueprintAssist.suppressed.lib and object C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\ETBModTemplate - Copia (2)\Plugins\BlueprintAssist\Intermediate\Build\Win64\UE4Editor\Development\BlueprintAssist\UE4Editor-BlueprintAssist.suppressed.exp
+LogInit: Warning: Still incompatible or missing module: AdvancedSessions
+LogInit: Warning: Still incompatible or missing module: AdvancedSteamSessions
+LogInit: Warning: Still incompatible or missing module: BlueprintAssist
+LogInit: Warning: Still incompatible or missing module: NodeGraphAssistant
+LogCore: Engine exit requested (reason: EngineExit() was called)
+LogExit: Preparing to exit.
+LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+LogModuleManager: Shutting down and abandoning module XGEController (36)
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogXGEController: Cleaning working directory: C:/Users/Playeroth/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+LogModuleManager: Shutting down and abandoning module RenderCore (26)
+LogModuleManager: Shutting down and abandoning module Landscape (24)
+LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+LogModuleManager: Shutting down and abandoning module Renderer (18)
+LogModuleManager: Shutting down and abandoning module Engine (16)
+LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+LogModuleManager: Shutting down and abandoning module PakFile (4)
+LogModuleManager: Shutting down and abandoning module RSA (3)
+LogExit: Exiting.
+Log file closed, 04/15/25 17:25:40
