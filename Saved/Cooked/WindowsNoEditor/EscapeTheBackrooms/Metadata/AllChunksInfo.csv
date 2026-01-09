@@ -201,6 +201,7 @@ ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
 0,/Game/Level188/BP_FallExit,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Mods/PYInsanityMod/DataTables/DT_PYINS->/Game/Mods/PYInsanityMod/PYINS_MainBP->/Game/Mods/PYInsanityMod/Maps/188_Expanded/PYINS_188_Expanded->/Game/Level188/BP_FallExit,2495,None
 0,/Game/Level188/BP_Lobby_Exit,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Mods/PYInsanityMod/DataTables/DT_PYINS->/Game/Mods/PYInsanityMod/PYINS_MainBP->/Game/Mods/PYInsanityMod/Maps/188_Expanded/PYINS_188_Expanded->/Game/Level188/BP_Lobby_Exit,2590,None
 0,/Game/Level188/BP_Lobby_Exit,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Mods/PYInsanityMod/DataTables/DT_PYINS->/Game/Mods/PYInsanityMod/PYINS_MainBP->/Game/Mods/PYInsanityMod/Maps/188_Expanded/PYINS_188_Expanded->/Game/Level188/BP_Lobby_Exit,2590,None
+0,/Game/Level188/S_TV_Data,UserDefinedStruct,Soft From Unassigned Package? Best Guess: /Game/SaveSystem/BPFL_SaveSystem->/Game/Level188/S_TV_Data,1058,None
 0,/Game/LightsOut/Merg/SM_Cement_Rubble_Group,StaticMesh,Soft From Unassigned Package? Best Guess: /Game/Mods/PYInsanityMod/DataTables/DT_PYINS->/Game/Mods/PYInsanityMod/PYINS_MainBP->/Game/Mods/PYInsanityMod/Maps/LightsOut/PYINS_LightsOutManager->/Game/LightsOut/Merg/SM_Cement_Rubble_Group,7774,None
 0,/Game/LightsOut/Structure/Wall/SM_Wall012,StaticMesh,Soft From Unassigned Package? Best Guess: /Game/LightsOut/Structure/Wall/SM_Wall012,7760,None
 0,/Game/LightsOut/Structure/Wall/SM_Wall02,StaticMesh,Soft From Unassigned Package? Best Guess: /Game/Mods/PYInsanityMod/DataTables/DT_PYINS->/Game/Mods/PYInsanityMod/PYINS_MainBP->/Game/Mods/PYInsanityMod/Maps/BoilerRoom/PYINS_BoilerRoom->/Game/LightsOut/Structure/Wall/SM_Wall02,7758,None
@@ -233,7 +234,7 @@ ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
 2,/Game/Mods/PYInsanityMod/CustomSystems/PYINS_AIMovement,BlueprintGeneratedClass,Hard,21517,None
 2,/Game/Mods/PYInsanityMod/CustomSystems/UseType,UserDefinedEnum,Hard,1257,None
 2,/Game/Mods/PYInsanityMod/DA_PYINS,PrimaryAssetLabel,Hard,1221,None
-2,/Game/Mods/PYInsanityMod/DataTables/DT_Localization,DataTable,Hard,1744,None
+2,/Game/Mods/PYInsanityMod/DataTables/DT_Localization,DataTable,Hard,1670,None
 2,/Game/Mods/PYInsanityMod/DataTables/DT_PYINS,DataTable,Hard,2670,None
 2,/Game/Mods/PYInsanityMod/FunZone2CheckDoors,Blueprint,Hard,17639,None
 2,/Game/Mods/PYInsanityMod/FunZone2CheckDoors,BlueprintGeneratedClass,Hard,17639,None
@@ -311,8 +312,8 @@ ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
 2,/Game/Mods/PYInsanityMod/Maps/LevelRun/LevelRunDatas/F_LevelSpawn,UserDefinedStruct,Hard,1228,None
 2,/Game/Mods/PYInsanityMod/Maps/LightsOut/PYINS_LightsOutManager,Blueprint,Hard,30979,None
 2,/Game/Mods/PYInsanityMod/Maps/LightsOut/PYINS_LightsOutManager,BlueprintGeneratedClass,Hard,30979,None
-2,/Game/Mods/PYInsanityMod/Maps/Lobby,Blueprint,Hard,7298,None
-2,/Game/Mods/PYInsanityMod/Maps/Lobby,BlueprintGeneratedClass,Hard,7298,None
+2,/Game/Mods/PYInsanityMod/Maps/Lobby,Blueprint,Hard,7623,None
+2,/Game/Mods/PYInsanityMod/Maps/Lobby,BlueprintGeneratedClass,Hard,7623,None
 2,/Game/Mods/PYInsanityMod/Maps/MainHallHotel/FixMOTH,Blueprint,Hard,3065,None
 2,/Game/Mods/PYInsanityMod/Maps/MainHallHotel/FixMOTH,BlueprintGeneratedClass,Hard,3065,None
 2,/Game/Mods/PYInsanityMod/Maps/MainHallHotel/PYINS_MainHallHotel,Blueprint,Hard,13251,None
@@ -364,8 +365,8 @@ ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
 2,/Game/Mods/PYInsanityMod/Maps/WaterDamage/PYINS_WaterDamageManager,Blueprint,Hard,10578,None
 2,/Game/Mods/PYInsanityMod/Maps/WaterDamage/PYINS_WaterDamageManager,BlueprintGeneratedClass,Hard,10578,None
 2,/Game/Mods/PYInsanityMod/PYINS_AINavMesh,World,Hard,9083,None
-2,/Game/Mods/PYInsanityMod/PYINS_MainBP,Blueprint,Hard,136572,None
-2,/Game/Mods/PYInsanityMod/PYINS_MainBP,BlueprintGeneratedClass,Hard,136572,None
+2,/Game/Mods/PYInsanityMod/PYINS_MainBP,Blueprint,Hard,136768,None
+2,/Game/Mods/PYInsanityMod/PYINS_MainBP,BlueprintGeneratedClass,Hard,136768,None
 2,/Game/Mods/PYInsanityMod/PYIns_Walls,Material,Hard,163371,None
 2,/Game/Mods/PYInsanityMod/SpawnedHoundCheck,Blueprint,Hard,1097,None
 2,/Game/Mods/PYInsanityMod/SpawnedHoundCheck,BlueprintGeneratedClass,Hard,1097,None
@@ -375,17 +376,27 @@ ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
 2,/Game/Mods/PYInsanityMod/WBP/InsVersion,WidgetBlueprintGeneratedClass,Hard,3312,None
 0,/Game/Mods/Z_DebugLog_P/BlueprintLibraries/BFL_DebugLog,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Mods/PYInsanityMod/DataTables/DT_PYINS->/Game/Mods/PYInsanityMod/PYINS_MainBP->/Game/Mods/PYInsanityMod/Maps/LightsOut/PYINS_LightsOutManager->/Game/Mods/Z_DebugLog_P/BlueprintLibraries/BFL_DebugLog,6213,None
 0,/Game/Mods/Z_DebugLog_P/BlueprintLibraries/BFL_DebugLog,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Mods/PYInsanityMod/DataTables/DT_PYINS->/Game/Mods/PYInsanityMod/PYINS_MainBP->/Game/Mods/PYInsanityMod/Maps/LightsOut/PYINS_LightsOutManager->/Game/Mods/Z_DebugLog_P/BlueprintLibraries/BFL_DebugLog,6213,None
-0,/Game/Mods/Z_ModLoader_P/Blueprints/BP_M_ModActor,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Mods/PYInsanityMod/DataTables/DT_PYINS->/Game/Mods/Z_ModLoader_P/Structs/New/F_ModLoaderDataTable->/Game/Mods/Z_ModLoader_P/Blueprints/BP_M_ModActor,3822,None
-0,/Game/Mods/Z_ModLoader_P/Blueprints/BP_M_ModActor,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Mods/PYInsanityMod/DataTables/DT_PYINS->/Game/Mods/Z_ModLoader_P/Structs/New/F_ModLoaderDataTable->/Game/Mods/Z_ModLoader_P/Blueprints/BP_M_ModActor,3822,None
+0,/Game/Mods/Z_ModLoader_P/Blueprints/BP_M_ModActor,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Mods/PYInsanityMod/DA_PYINS->/Game/Mods/PYInsanityMod/PYINS_MainBP->/Game/Mods/Z_ModLoader_P/Blueprints/BP_M_ModActor,3822,None
+0,/Game/Mods/Z_ModLoader_P/Blueprints/BP_M_ModActor,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Mods/PYInsanityMod/DA_PYINS->/Game/Mods/PYInsanityMod/PYINS_MainBP->/Game/Mods/Z_ModLoader_P/Blueprints/BP_M_ModActor,3822,None
 0,/Game/Mods/Z_ModLoader_P/Structs/F_ModLoaderInformation,UserDefinedStruct,Soft From Unassigned Package? Best Guess: /Game/Mods/Z_ModLoader_P/Structs/F_ModLoaderInformation,4281,None
 0,/Game/Mods/Z_ModLoader_P/Structs/New/F_ModLoaderDataTable,UserDefinedStruct,Soft From Unassigned Package? Best Guess: /Game/Mods/PYInsanityMod/DA_PYINS->/Game/Mods/PYInsanityMod/DataTables/DT_PYINS->/Game/Mods/Z_ModLoader_P/Structs/New/F_ModLoaderDataTable,2359,None
-0,/Game/Mods/Z_ModLoader_P/Structs/New/F_ModLoaderModActor,UserDefinedStruct,Soft From Unassigned Package? Best Guess: /Game/Mods/PYInsanityMod/DataTables/DT_PYINS->/Game/Mods/Z_ModLoader_P/Structs/New/F_ModLoaderDataTable->/Game/Mods/Z_ModLoader_P/Blueprints/BP_M_ModActor->/Game/Mods/Z_ModLoader_P/Structs/New/F_ModLoaderModActor,2334,None
+0,/Game/Mods/Z_ModLoader_P/Structs/New/F_ModLoaderModActor,UserDefinedStruct,Soft From Unassigned Package? Best Guess: /Game/Mods/PYInsanityMod/DA_PYINS->/Game/Mods/PYInsanityMod/PYINS_MainBP->/Game/Mods/Z_ModLoader_P/Blueprints/BP_M_ModActor->/Game/Mods/Z_ModLoader_P/Structs/New/F_ModLoaderModActor,2334,None
 0,/Game/Mods/Z_ModLoader_P/Widgets/WBP_Main_Entry,WidgetBlueprint,Soft From Unassigned Package? Best Guess: /Game/Mods/Z_ModLoader_P/Widgets/WBP_ModLoader->/Game/Mods/Z_ModLoader_P/Widgets/WBP_Main_Entry,6671,None
 0,/Game/Mods/Z_ModLoader_P/Widgets/WBP_Main_Entry,WidgetBlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Mods/Z_ModLoader_P/Widgets/WBP_ModLoader->/Game/Mods/Z_ModLoader_P/Widgets/WBP_Main_Entry,6671,None
 0,/Game/Mods/Z_ModLoader_P/Widgets/WBP_ModLoader,WidgetBlueprint,Soft From Unassigned Package? Best Guess: /Game/Mods/Z_ModLoader_P/Widgets/WBP_ModLoader,4796,None
 0,/Game/Mods/Z_ModLoader_P/Widgets/WBP_ModLoader,WidgetBlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Mods/Z_ModLoader_P/Widgets/WBP_ModLoader,4796,None
+0,/Game/NebulaLobbyUI/UI/Enumerations/EN_UI_MissionState,UserDefinedEnum,Soft From Unassigned Package? Best Guess: /Game/SaveSystem/Update/BP_MySaveGame->/Game/NebulaLobbyUI/UI/Structures/ST_UI_Mission->/Game/NebulaLobbyUI/UI/Enumerations/EN_UI_MissionState,1289,None
+0,/Game/NebulaLobbyUI/UI/Structures/ST_UI_Mission,UserDefinedStruct,Soft From Unassigned Package? Best Guess: /Game/SaveSystem/Update/BP_MySaveGame->/Game/NebulaLobbyUI/UI/Structures/ST_UI_Mission,2857,None
 0,/Game/SaveSystem/BP_New_SaveGame,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Mods/PYInsanityMod/Maps/AnimatedKingdom/BottleCheck->/Game/Mods/PYInsanityMod/Maps/AnimatedKingdom/PYINS_EventStartedManager->/Game/Mods/PYInsanityMod/Maps/AnimatedKingdom/PYINS_AnimKingdomManager->/Game/SaveSystem/BP_New_SaveGame,1436,None
 0,/Game/SaveSystem/BP_New_SaveGame,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Mods/PYInsanityMod/Maps/AnimatedKingdom/BottleCheck->/Game/Mods/PYInsanityMod/Maps/AnimatedKingdom/PYINS_EventStartedManager->/Game/Mods/PYInsanityMod/Maps/AnimatedKingdom/PYINS_AnimKingdomManager->/Game/SaveSystem/BP_New_SaveGame,1436,None
+0,/Game/SaveSystem/BPFL_SaveSystem,Blueprint,Soft From Unassigned Package? Best Guess: /Game/SaveSystem/BPFL_SaveSystem,32617,None
+0,/Game/SaveSystem/BPFL_SaveSystem,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/SaveSystem/BPFL_SaveSystem,32617,None
+0,/Game/SaveSystem/S_DroppedItem,UserDefinedStruct,Soft From Unassigned Package? Best Guess: /Game/SaveSystem/Update/BP_MySaveGame->/Game/SaveSystem/S_LevelStats->/Game/SaveSystem/S_WorldCommon->/Game/SaveSystem/S_DroppedItem,1167,None
+0,/Game/SaveSystem/S_LevelStats,UserDefinedStruct,Soft From Unassigned Package? Best Guess: /Game/SaveSystem/Update/BP_MySaveGame->/Game/SaveSystem/S_LevelStats,2050,None
+0,/Game/SaveSystem/S_PlayerData,UserDefinedStruct,Soft From Unassigned Package? Best Guess: /Game/SaveSystem/BPFL_SaveSystem->/Game/SaveSystem/S_PlayerData,1232,None
+0,/Game/SaveSystem/S_WorldCommon,UserDefinedStruct,Soft From Unassigned Package? Best Guess: /Game/SaveSystem/Update/BP_MySaveGame->/Game/SaveSystem/S_LevelStats->/Game/SaveSystem/S_WorldCommon,1293,None
+0,/Game/SaveSystem/Update/BP_MySaveGame,Blueprint,Soft From Unassigned Package? Best Guess: /Game/SaveSystem/Update/BP_MySaveGame,7490,None
+0,/Game/SaveSystem/Update/BP_MySaveGame,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/SaveSystem/Update/BP_MySaveGame,7490,None
 0,/Game/Snackrooms/BP_Elevator_Snackrooms,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Snackrooms/BP_Elevator_Snackrooms,2530,None
 0,/Game/Snackrooms/BP_Elevator_Snackrooms,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Snackrooms/BP_Elevator_Snackrooms,2530,None
 0,/Game/Snackrooms/BP_Snackrooms_Exit,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Mods/PYInsanityMod/DataTables/DT_PYINS->/Game/Mods/PYInsanityMod/PYINS_MainBP->/Game/Mods/PYInsanityMod/Maps/Snackrooms/PYINS_Snackrooms->/Game/Snackrooms/BP_Snackrooms_Exit,2518,None
