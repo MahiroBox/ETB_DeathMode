@@ -60,8 +60,7 @@ F:\bin\GitHub\Projects\UE\ETB_PYSourceOfAll\Saved\Cooked\WindowsNoEditor\EscapeT
 F:\bin\GitHub\Projects\UE\ETB_PYSourceOfAll\Saved\Cooked\WindowsNoEditor\EscapeTheBackrooms\Content\Mods\PYInsanityMod\Maps\LevelRun\LevelRunDatas\F_ActorsListSpawn
 F:\bin\GitHub\Projects\UE\ETB_PYSourceOfAll\Saved\Cooked\WindowsNoEditor\EscapeTheBackrooms\Content\Mods\PYInsanityMod\Maps\LevelRun\LevelRunDatas\F_LevelSpawn
 F:\bin\GitHub\Projects\UE\ETB_PYSourceOfAll\Saved\Cooked\WindowsNoEditor\EscapeTheBackrooms\Content\Mods\PYInsanityMod\Maps\LightsOut\PYINS_LightsOutManager
-F:\bin\GitHub\Projects\UE\ETB_PYSourceOfAll\Saved\Cooked\WindowsNoEditor\EscapeTheBackrooms\Content\Mods\PYInsanityMod\Maps\Lobby\Assets\Level_0_1_Unconfirmed
-F:\bin\GitHub\Projects\UE\ETB_PYSourceOfAll\Saved\Cooked\WindowsNoEditor\EscapeTheBackrooms\Content\Mods\PYInsanityMod\Maps\Lobby\Lobby
+F:\bin\GitHub\Projects\UE\ETB_PYSourceOfAll\Saved\Cooked\WindowsNoEditor\EscapeTheBackrooms\Content\Mods\PYInsanityMod\Maps\Lobby
 F:\bin\GitHub\Projects\UE\ETB_PYSourceOfAll\Saved\Cooked\WindowsNoEditor\EscapeTheBackrooms\Content\Mods\PYInsanityMod\Maps\MainHallHotel\FixMOTH
 F:\bin\GitHub\Projects\UE\ETB_PYSourceOfAll\Saved\Cooked\WindowsNoEditor\EscapeTheBackrooms\Content\Mods\PYInsanityMod\Maps\MainHallHotel\PYINS_MainHallHotel
 F:\bin\GitHub\Projects\UE\ETB_PYSourceOfAll\Saved\Cooked\WindowsNoEditor\EscapeTheBackrooms\Content\Mods\PYInsanityMod\Maps\MiddleFloor\PYIns_MiddleFloorManager
