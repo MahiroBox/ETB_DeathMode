@@ -32,7 +32,7 @@
 /wd4244
 /wd4838
 /I .
-/I C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Plugins\AdvancedSessions\Source\AdvancedSessions\Private
+/I F:\bin\GitHub\Projects\UE\ETB_PYSourceOfAll\Plugins\AdvancedSessions\Source\AdvancedSessions\Private
 /I ..\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\UE4Editor\Inc\OnlineSubsystem
 /I ..\Plugins\Online\OnlineSubsystem
 /I ..\Plugins\Online\OnlineSubsystem\Source
@@ -241,9 +241,9 @@
 /I Editor\Kismet\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
-/I C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Plugins\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions
-/I C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Plugins\AdvancedSessions\Source
-/I C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes
+/I F:\bin\GitHub\Projects\UE\ETB_PYSourceOfAll\Plugins\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions
+/I F:\bin\GitHub\Projects\UE\ETB_PYSourceOfAll\Plugins\AdvancedSessions\Source
+/I F:\bin\GitHub\Projects\UE\ETB_PYSourceOfAll\Plugins\AdvancedSessions\Source\AdvancedSessions\Classes
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -267,18 +267,18 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
-/I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\INCLUDE"
+/I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8.1\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.26100.0\winrt"
-/FI"C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Plugins\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Module.AdvancedSessions.gen.3_of_3.cpp"
-/FI"C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Plugins\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Definitions.AdvancedSessions.h"
-/Fo"C:\Users\Playeroth\Documents\EscapeTheBackrooms--Mods\MainMod\Plugins\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Module.AdvancedSessions.gen.3_of_3.cpp.obj"
+/FI"F:\bin\GitHub\Projects\UE\ETB_PYSourceOfAll\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"F:\bin\GitHub\Projects\UE\ETB_PYSourceOfAll\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"F:\bin\GitHub\Projects\UE\ETB_PYSourceOfAll\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"F:\bin\GitHub\Projects\UE\ETB_PYSourceOfAll\Plugins\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Module.AdvancedSessions.gen.3_of_3.cpp"
+/FI"F:\bin\GitHub\Projects\UE\ETB_PYSourceOfAll\Plugins\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Definitions.AdvancedSessions.h"
+/Fo"F:\bin\GitHub\Projects\UE\ETB_PYSourceOfAll\Plugins\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSessions\Module.AdvancedSessions.gen.3_of_3.cpp.obj"
 /TP
 /GR-
 /W4
